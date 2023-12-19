@@ -3,15 +3,12 @@
 ## News
 
 
-## Contents
-
-
 ## Method
 
 
 ## Getting Started
 
-## Checkpoints
+## Model Zoo
 
 ## Catalog
 
