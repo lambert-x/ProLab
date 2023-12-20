@@ -1,14 +1,16 @@
 # ProLab: Property-level Label Space
 
+
+
 Paper | Project Page | Property-level Labels | Model Zoo
 
 ## News
 
 ## Method
 
-![method](images/method_llm_as_descriptors.jpg)
+![method](images/method_llm_as_descriptors.png)
 
-![](images/method_descriptions_as_supervisions.jpg)
+![](images/method_descriptions_as_supervisions.png)
 
 ## Contents
 
@@ -113,5 +115,3 @@ Please cite if this paper is useful to your work.
 [Sentence Transformer]([sentence-transformers (Sentence Transformers)](https://huggingface.co/sentence-transformers)) and [BAAI-BGE]([BAAI/bge-large-en-v1.5 · Hugging Face](https://huggingface.co/BAAI/bge-large-en-v1.5)) are used as description embedding models.
 
 [MMSegmentation](https://github.com/open-mmlab/mmsegmentation/) and [ViT-Adapter](https://github.com/czczup/ViT-Adapter) are used as the segmentation codebase.
-
-
