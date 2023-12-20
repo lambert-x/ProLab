@@ -62,7 +62,7 @@ Please visit the [official website](https://bdd-data.berkeley.edu/) to download 
 
 We provide the **[retrieved descriptive properties](./descriptors/)** (with GPT-3.5) and [property-level labels](https://drive.google.com/drive/folders/1AVpMCi_CoT_JQfuuoVfUS2RLCQHk5fgI?usp=drive_link) (language embeddings) .
 
-We also provide **[generate_descrtiptions.ipynb](./generate_descrtiptions.ipynb)** and **[generate_embeddings.ipynb](./generate_embeddings.ipynb)** using GPT 3.5 (API) and LLAMA-2 (local deploy) to retrieve descriptive properties, encode and cluster them into embeddings (using Sentence Transformer ([huggingface](https://huggingface.co/sentence-transformers), [paper](Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks]([[1908.10084] Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/abs/1908.10084)))) and BAAI-BGE models ([huggingface](https://huggingface.co/BAAI/bge-large-en-v1.5), [paper](https://arxiv.org/abs/2309.07597v2)) step-by-step.
+We also provide **[generate_descrtiptions.ipynb](./generate_descrtiptions.ipynb)** and **[generate_embeddings.ipynb](./generate_embeddings.ipynb)** using GPT 3.5 (API) and LLAMA-2 (local deploy) to retrieve descriptive properties, encode and cluster them into embeddings (using Sentence Transformer ([huggingface](https://huggingface.co/sentence-transformers), [paper]([[1908.10084] Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/abs/1908.10084)))) and BAAI-BGE models ([huggingface](https://huggingface.co/BAAI/bge-large-en-v1.5), [paper](https://arxiv.org/abs/2309.07597v2)) step-by-step.
 
 ### Training
 
