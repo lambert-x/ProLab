@@ -86,19 +86,19 @@ We also provide **[generate_descrtiptions.ipynb](./generate_descrtiptions.ipynb)
 
 | Method  | Backbone      | Pretrain                                                                         | Lr schd | Crop Size | mIoU | Config | Download |
 | ------- | ------------- | -------------------------------------------------------------------------------- | ------- | --------- | ---- | ------ | -------- |
-| UperNet | ViT-Adapter-B | [DeiT-B](https://dl.fbaipublicfiles.com/deit/deit_base_patch16_224-b5f2ef4d.pth) | 160K    | 512       |  58.2    |     [config](./configs/pascal_context/upernet_deit_adapter_base_512_160k_pascal_context_59_bge_base_gpt3.5_cluster_128_cosine_simi_with_sigmoid_cosine_loss_temp_0.04_unnormalized.py)   |   [ckpt](https://drive.google.com/file/d/157nrTusisS_KD1M_y-AukHbTr0PXVI5e/view?usp=drive_link) \| [log](https://drive.google.com/file/d/1xF7T7JQ9vjvfY_AFVdDel-Z5u1Pit5eH/view?usp=drive_link)       |
+| UperNet | ViT-Adapter-B | [DeiT-B](https://dl.fbaipublicfiles.com/deit/deit_base_patch16_224-b5f2ef4d.pth) | 160K    | 512       |  58.2    |     [config](./configs/pascal_context/upernet_deit_adapter_base_512_160k_pascal_context_59_bge_base_gpt3.5_cluster_128_cosine_simi_with_sigmoid_cosine_loss_temp_0.04_unnormalized.py)   |   [ckpt](https://drive.google.com/file/d/157nrTusisS_KD1M_y-AukHbTr0PXVI5e/view?usp=drive_link)     |
 
 **Cityscapes**
 
 | Method  | Backbone      | Pretrain                                                                         | Lr schd | Crop Size | mIoU | Config | Download |
 | ------- | ------------- | -------------------------------------------------------------------------------- | ------- | --------- | ---- | ------ | -------- |
-| UperNet | ViT-Adapter-B | [DeiT-B](https://dl.fbaipublicfiles.com/deit/deit_base_patch16_224-b5f2ef4d.pth) | 160K    | 768       |  81.4    |   [config](./configs/cityscapes/upernet_deit_adapter_base_768_160k_cityscapes_bge_base_gpt3.5_cluster_32_cosine_simi_with_sigmoid_cosine_loss_temp_0.04_unnormalized.py)     |     [ckpt](https://drive.google.com/file/d/1QcoEvGMlpOLaUB4V71c8Qhxx7SpNfRO6/view?usp=drive_link) \| [log](https://drive.google.com/file/d/1wocEocLvvhC4GF5G_lDFkhYRKGpDHieU/view?usp=drive_link)     |
+| UperNet | ViT-Adapter-B | [DeiT-B](https://dl.fbaipublicfiles.com/deit/deit_base_patch16_224-b5f2ef4d.pth) | 160K    | 768       |  81.4    |   [config](./configs/cityscapes/upernet_deit_adapter_base_768_160k_cityscapes_bge_base_gpt3.5_cluster_32_cosine_simi_with_sigmoid_cosine_loss_temp_0.04_unnormalized.py)     |     [ckpt](https://drive.google.com/file/d/1QcoEvGMlpOLaUB4V71c8Qhxx7SpNfRO6/view?usp=drive_link) |
 
 **BDD**
 
 | Method  | Backbone      | Pretrain                                                                         | Lr schd | Crop Size | mIoU | Config | Download |
 | ------- | ------------- | -------------------------------------------------------------------------------- | ------- | --------- | ---- | ------ | -------- |
-| UperNet | ViT-Adapter-B | [DeiT-B](https://dl.fbaipublicfiles.com/deit/deit_base_patch16_224-b5f2ef4d.pth) | 160K    | 768       |   65.7   |    [config](./configs/bdd100k/upernet_deit_adapter_base_768_160k_bdd100k_bge_base_gpt3.5_cluster_32_cosine_simi_with_sigmoid_cosine_loss_temp_0.04_unnormalized.py)    |     [ckpt](https://drive.google.com/file/d/1ksAPKhCs7pk8TyiP3LkBeq7QZoW_RiC4/view?usp=drive_link) \| [log](https://drive.google.com/file/d/1ZwKkjF2T1XILYRfNaYE8Aglb39SsL3b7/view?usp=drive_link)     |
+| UperNet | ViT-Adapter-B | [DeiT-B](https://dl.fbaipublicfiles.com/deit/deit_base_patch16_224-b5f2ef4d.pth) | 160K    | 768       |   65.7   |    [config](./configs/bdd100k/upernet_deit_adapter_base_768_160k_bdd100k_bge_base_gpt3.5_cluster_32_cosine_simi_with_sigmoid_cosine_loss_temp_0.04_unnormalized.py)    |     [ckpt](https://drive.google.com/file/d/1ksAPKhCs7pk8TyiP3LkBeq7QZoW_RiC4/view?usp=drive_link)   |
 
 ## Catalog
 
