@@ -16,7 +16,7 @@ Paper | Project Page | Property-level Labels | Model Zoo
 
 Our segmentation code is developed on top of [MMSegmentation](https://github.com/open-mmlab/mmsegmentation/) and [ViT-Adapter](https://github.com/czczup/ViT-Adapter).
 
-## Install
+### Install
 
 We have two tested environments based on **torch 1.9+cuda 11.1+MMSegmentation v0.20.2** and **torch 1.13.1+torch11.7+MMSegmentation v0.27.0**.
 
