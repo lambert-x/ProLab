@@ -57,7 +57,7 @@
 
 **ProLab** models have **emerged generalization ability** to **out-of-domain** categories and even **unknown** categories.
 
-<img title="" src="images/emerged_generalization_ability.png" alt="" width="598" data-align="center">
+![](images/emerged_generalization_ability.png)
 
 ## Contents
 
