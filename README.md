@@ -3,7 +3,7 @@
 <div align='center'>
   <!-- Paper Title -->
   <h1><strong>ProLab</strong>: <strong>Pro</strong>perty-level <strong>Lab</strong>el Space</h1>
-  <h3><a href="https://arxiv.org/abs/2312.13764">A Semantic Space is Worth 256 Language Descriptions: Make Stronger Segmentation Models with Descriptive Properties</a></h3>
+  <h3><a href="https://arxiv.org/abs/2312.13764">A Semantic Space is Worth 256 Language Descriptions: <br>Make Stronger Segmentation Models with Descriptive Properties</a></h3>
   
   <!-- Authors -->
   <p>
