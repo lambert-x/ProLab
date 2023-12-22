@@ -19,8 +19,6 @@
   <a href="https://cihangxie.github.io/">Cihang Xie</a><sup>2</sup>
 </p>
 
-
-
 <!-- Institutions -->
 
 <p>
@@ -56,6 +54,10 @@
 ![](images/method_descriptions_as_supervisions.png)
 
 ## Emerged Generalization Ability
+
+**ProLab** models have **emerged generalization ability** to **out-of-domain** categories and even **unknown** categories.
+
+<img title="" src="images/emerged_generalization_ability.png" alt="" width="598" data-align="center">
 
 ## Contents
 
@@ -127,47 +129,59 @@ We also provide [generate_descrtiptions.ipynb](./generate_descrtiptions.ipynb) u
 
 ### Encode Descriptions into Embeddings (Optional)
 
-**[generate_embeddings.ipynb](./generate_embeddings.ipynb)** is also provided to encode and cluster the descriptive properties into embeddings with **Sentence Transformer** ([huggingface](https://huggingface.co/sentence-transformers), [paper](https://arxiv.org/abs/1908.10084)) and **BAAI-BGE** models ([huggingface](https://huggingface.co/BAAI/bge-large-en-v1.5), [paper](https://arxiv.org/abs/2309.07597v2)) step-by-step.
+[Generate_embeddings.ipynb](./generate_embeddings.ipynb) is also provided to encode and cluster the descriptive properties into embeddings with **Sentence Transformer** ([huggingface](https://huggingface.co/sentence-transformers), [paper](https://arxiv.org/abs/1908.10084)) and **BAAI-BGE** models ([huggingface](https://huggingface.co/BAAI/bge-large-en-v1.5), [paper](https://arxiv.org/abs/2309.07597v2)) step-by-step.
 
 ## Model Zoo
 
 **ADE20K**
 
-| Method  | Backbone      | Pretrain                                                                                                                   | Lr schd | Crop Size | mIoU | Config                                                                              | Checkpoint                                                                                          |
-| ------- | ------------- | -------------------------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| UperNet | ViT-Adapter-B | [DeiT-B](https://dl.fbaipublicfiles.com/deit/deit_base_patch16_224-b5f2ef4d.pth)                                           | 320k    | 512       | 49.0 | [config](./configs/ADE20K/upernet_deit_adapter_base_512_320k_ade20k_bge_base.py)    | [Google Drive](https://drive.google.com/file/d/1sCag4rcLno_qSnMPpeD5XdikEBucfkH3/view?usp=sharing)  |
-| UperNet | ViT-Adapter-L | [BEiT-L](https://conversationhub.blob.core.windows.net/beit-share-public/beit/beit_large_patch16_224_pt22k_ft22k.pth)      | 160k    | 640       | 58.2 | [config](./configs/ADE20K/upernet_beit_adapter_large_640_160k_ade20k_bge_base.py)   | [Google Drive](https://drive.google.com/file/d/1zi2g__mZg0Y0GuZCx3gpmVXCnOCqt4Ut/view?usp=sharing)  |
-| UperNet | ViT-Adapter-L | [BEiTv2-L](https://conversationhub.blob.core.windows.net/beit-share-public/beitv2/beitv2_large_patch16_224_pt1k_ft21k.pth) | 80K     | 896       | 58.7 | [config](./configs/ADE20K/upernet_beitv2_adapter_large_896_160k_ade20k_bge_base.py) | [Google Drive](https://drive.google.com/file/d/1bJXd04eWeVvQT12fQPlLKT_bXQTdSNJN/view?usp=sharings) |
+| Framework | Backbone      | Pretrain                                                                                                                   | Lr schd | Crop Size | mIoU | Config                                                                              | Checkpoint                                                                                          |
+| --------- | ------------- | -------------------------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| UperNet   | ViT-Adapter-B | [DeiT-B](https://dl.fbaipublicfiles.com/deit/deit_base_patch16_224-b5f2ef4d.pth)                                           | 320k    | 512       | 49.0 | [config](./configs/ADE20K/upernet_deit_adapter_base_512_320k_ade20k_bge_base.py)    | [Google Drive](https://drive.google.com/file/d/1sCag4rcLno_qSnMPpeD5XdikEBucfkH3/view?usp=sharing)  |
+| UperNet   | ViT-Adapter-L | [BEiT-L](https://conversationhub.blob.core.windows.net/beit-share-public/beit/beit_large_patch16_224_pt22k_ft22k.pth)      | 160k    | 640       | 58.2 | [config](./configs/ADE20K/upernet_beit_adapter_large_640_160k_ade20k_bge_base.py)   | [Google Drive](https://drive.google.com/file/d/1zi2g__mZg0Y0GuZCx3gpmVXCnOCqt4Ut/view?usp=sharing)  |
+| UperNet   | ViT-Adapter-L | [BEiTv2-L](https://conversationhub.blob.core.windows.net/beit-share-public/beitv2/beitv2_large_patch16_224_pt1k_ft21k.pth) | 80K     | 896       | 58.7 | [config](./configs/ADE20K/upernet_beitv2_adapter_large_896_160k_ade20k_bge_base.py) | [Google Drive](https://drive.google.com/file/d/1bJXd04eWeVvQT12fQPlLKT_bXQTdSNJN/view?usp=sharings) |
 
 **COCO-Stuff-164K**
 
-| Method  | Backbone      | Pretrain                                                                         | Lr schd | Crop Size | mIoU | Config                                                                                   | Checkpoint                                                                                         |
-| ------- | ------------- | -------------------------------------------------------------------------------- | ------- | --------- | ---- | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| UperNet | ViT-Adapter-B | [DeiT-B](https://dl.fbaipublicfiles.com/deit/deit_base_patch16_224-b5f2ef4d.pth) | 160K    | 512       | 45.4 | [config](./configs/COCO_Stuff/upernet_deit_adapter_base_512_160k_coco_stuff_bge_base.py) | [Google Drive](https://drive.google.com/file/d/12sCXqJ0Dsois_ywKYSUiezprwgGq8QkA/view?usp=sharing) |
+| Framework | Backbone      | Pretrain                                                                         | Lr schd | Crop Size | mIoU | Config                                                                                   | Checkpoint                                                                                         |
+| --------- | ------------- | -------------------------------------------------------------------------------- | ------- | --------- | ---- | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| UperNet   | ViT-Adapter-B | [DeiT-B](https://dl.fbaipublicfiles.com/deit/deit_base_patch16_224-b5f2ef4d.pth) | 160K    | 512       | 45.4 | [config](./configs/COCO_Stuff/upernet_deit_adapter_base_512_160k_coco_stuff_bge_base.py) | [Google Drive](https://drive.google.com/file/d/12sCXqJ0Dsois_ywKYSUiezprwgGq8QkA/view?usp=sharing) |
 
 **Pascal Context**
 
-| Method  | Backbone      | Pretrain                                                                         | Lr schd | Crop Size | mIoU | Config                                                                                                                                                                             | Checkpoint                                                                                            |
-| ------- | ------------- | -------------------------------------------------------------------------------- | ------- | --------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| UperNet | ViT-Adapter-B | [DeiT-B](https://dl.fbaipublicfiles.com/deit/deit_base_patch16_224-b5f2ef4d.pth) | 160K    | 512       | 58.2 | [config](./configs/pascal_context/upernet_deit_adapter_base_512_160k_pascal_context_59_bge_base_gpt3.5_cluster_128_cosine_simi_with_sigmoid_cosine_loss_temp_0.04_unnormalized.py) | [Google Drive](https://drive.google.com/file/d/157nrTusisS_KD1M_y-AukHbTr0PXVI5e/view?usp=drive_link) |
+| Framework | Backbone      | Pretrain                                                                         | Lr schd | Crop Size | mIoU | Config                                                                                                                                                                             | Checkpoint                                                                                            |
+| --------- | ------------- | -------------------------------------------------------------------------------- | ------- | --------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| UperNet   | ViT-Adapter-B | [DeiT-B](https://dl.fbaipublicfiles.com/deit/deit_base_patch16_224-b5f2ef4d.pth) | 160K    | 512       | 58.2 | [config](./configs/pascal_context/upernet_deit_adapter_base_512_160k_pascal_context_59_bge_base_gpt3.5_cluster_128_cosine_simi_with_sigmoid_cosine_loss_temp_0.04_unnormalized.py) | [Google Drive](https://drive.google.com/file/d/157nrTusisS_KD1M_y-AukHbTr0PXVI5e/view?usp=drive_link) |
 
 **Cityscapes**
 
-| Method  | Backbone      | Pretrain                                                                         | Lr schd | Crop Size | mIoU | Config                                                                                                                                                                 | Checkpoint                                                                                            |
-| ------- | ------------- | -------------------------------------------------------------------------------- | ------- | --------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| UperNet | ViT-Adapter-B | [DeiT-B](https://dl.fbaipublicfiles.com/deit/deit_base_patch16_224-b5f2ef4d.pth) | 160K    | 768       | 81.4 | [config](./configs/cityscapes/upernet_deit_adapter_base_768_160k_cityscapes_bge_base_gpt3.5_cluster_32_cosine_simi_with_sigmoid_cosine_loss_temp_0.04_unnormalized.py) | [Google Drive](https://drive.google.com/file/d/1QcoEvGMlpOLaUB4V71c8Qhxx7SpNfRO6/view?usp=drive_link) |
+| Framework | Backbone      | Pretrain                                                                         | Lr schd | Crop Size | mIoU | Config                                                                                                                                                                 | Checkpoint                                                                                            |
+| --------- | ------------- | -------------------------------------------------------------------------------- | ------- | --------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| UperNet   | ViT-Adapter-B | [DeiT-B](https://dl.fbaipublicfiles.com/deit/deit_base_patch16_224-b5f2ef4d.pth) | 160K    | 768       | 81.4 | [config](./configs/cityscapes/upernet_deit_adapter_base_768_160k_cityscapes_bge_base_gpt3.5_cluster_32_cosine_simi_with_sigmoid_cosine_loss_temp_0.04_unnormalized.py) | [Google Drive](https://drive.google.com/file/d/1QcoEvGMlpOLaUB4V71c8Qhxx7SpNfRO6/view?usp=drive_link) |
 
 **BDD**
 
-| Method  | Backbone      | Pretrain                                                                         | Lr schd | Crop Size | mIoU | Config                                                                                                                                                           | Checkpoint                                                                                            |
-| ------- | ------------- | -------------------------------------------------------------------------------- | ------- | --------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| UperNet | ViT-Adapter-B | [DeiT-B](https://dl.fbaipublicfiles.com/deit/deit_base_patch16_224-b5f2ef4d.pth) | 160K    | 768       | 65.7 | [config](./configs/bdd100k/upernet_deit_adapter_base_768_160k_bdd100k_bge_base_gpt3.5_cluster_32_cosine_simi_with_sigmoid_cosine_loss_temp_0.04_unnormalized.py) | [Google Drive](https://drive.google.com/file/d/1ksAPKhCs7pk8TyiP3LkBeq7QZoW_RiC4/view?usp=drive_link) |
+| Framework | Backbone      | Pretrain                                                                         | Lr schd | Crop Size | mIoU | Config                                                                                                                                                           | Checkpoint                                                                                            |
+| --------- | ------------- | -------------------------------------------------------------------------------- | ------- | --------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| UperNet   | ViT-Adapter-B | [DeiT-B](https://dl.fbaipublicfiles.com/deit/deit_base_patch16_224-b5f2ef4d.pth) | 160K    | 768       | 65.7 | [config](./configs/bdd100k/upernet_deit_adapter_base_768_160k_bdd100k_bge_base_gpt3.5_cluster_32_cosine_simi_with_sigmoid_cosine_loss_temp_0.04_unnormalized.py) | [Google Drive](https://drive.google.com/file/d/1ksAPKhCs7pk8TyiP3LkBeq7QZoW_RiC4/view?usp=drive_link) |
 
 ## Training & Evaluation
 
+### Training
 
+The following example script is to train ViT-Adapter-B + UperNet on ADE20k on a single node with 8 gpus:
 
+```shell
+sh dist_train.sh configs/ADE20K/upernet_deit_adapter_base_512_320k_ade20k_bge_base.py 8
+```
 
+### Evaluation
+
+The following example script is to evaluate ViT-Adapter-B + UperNet on COCO_Stuff val on a single node with 8 gpus:
+
+```shell
+sh dist_test.sh configs/COCO_Stuff/upernet_deit_adapter_base_512_160k_coco_stuff_bge_base.py 8 --eval mIoU
+```
 
 ## Citation
 
