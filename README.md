@@ -182,8 +182,10 @@ If this paper is useful to your work, please cite:
 
 ## Acknowledgement
 
-[GPT-3.5](Language Models are Few-Shot Learners]([[2005.14165v4] Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165v4))) and [Llama-2](https://huggingface.co/meta-llama/Llama-2-7b-hf) are used for retrieving descriptive properties.
+[GPT-3.5](https://arxiv.org/abs/2005.14165v4) and [Llama-2](https://huggingface.co/meta-llama/Llama-2-7b-hf) are used for retrieving descriptive properties.
 
-[Sentence Transformer]([sentence-transformers (Sentence Transformers)](https://huggingface.co/sentence-transformers)) and [BAAI-BGE]([BAAI/bge-large-en-v1.5 · Hugging Face](https://huggingface.co/BAAI/bge-large-en-v1.5)) are used as description embedding models.
+[Sentence Transformer](https://huggingface.co/sentence-transformers) and [BAAI-BGE](https://huggingface.co/BAAI/bge-large-en-v1.5) are used as description embedding models.
 
 [MMSegmentation](https://github.com/open-mmlab/mmsegmentation/) and [ViT-Adapter](https://github.com/czczup/ViT-Adapter) are used as the segmentation codebase.
+
+Many thanks to all these great projects .
