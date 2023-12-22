@@ -1,18 +1,36 @@
-# ProLab: Property-level Label Space
 
 
+<div align='center'>
+  <!-- Paper Title -->
+  <h1><strong>ProLab</strong>: <strong>Pro</strong>perty-level <strong>Lab</strong>el Space</h1>
+  <h3><a href="https://arxiv.org/abs/2312.13764">A Semantic Space is Worth 256 Language Descriptions: Make Stronger Segmentation Models with Descriptive Properties</a></h3>
+  
+  <!-- Authors -->
+  <p>
+    Junfei Xiao<sup>1</sup>, Ziqi Zhou<sup>2</sup>, Wenxuan Li<sup>1</sup>, Shiyi Lan<sup>3</sup>, Zhiding Yu<sup>3</sup>,
+    Jieru Mei<sup>1</sup>, Zhiding Yu<sup>3</sup>, <br>Bingchen Zhao<sup>4</sup>, Alan Yuille<sup>1</sup>,
+    Yuyin Zhou<sup>2</sup>, Cihang Xie<sup>2</sup>
+  </p>
+  
+  <!-- Institutions -->
+  <p>
+    <sup>1</sup><a href="https://www.jhu.edu/">Johns Hopkins University</a>, 
+    <sup>2</sup><a href="https://www.ucsc.edu/">UCSC</a>, 
+    <sup>3</sup><a href="https://www.nvidia.com/">NVIDIA</a>, 
+    <sup>4</sup><a href="https://www.ed.ac.uk/">University of Edinburgh</a>
+  </p>
+  
+  <!-- Teaser Image -->
+  <img src="images/github_teaser.png" alt="Teaser Image">
 
-**A Semantic Space is Worth 256 Language Descriptions: Make Stronger Segmentation Models with Descriptive Properties**
-
-
-
-Junfei Xiao<sup>1</sup>, Ziqi Zhou<sup>2</sup>, Wenxuan Li<sup>1</sup>, Shiyi Lan<sup>3</sup>, Zhiding Yu<sup>3</sup>, Jieru Mei<sup>1</sup>, Zhiding Yu<sup>3</sup>, Bingchen Zhao<sup>4</sup>, Alan Yuille<sup>1</sup>, Yuyin Zhou<sup>2</sup>, Cihang Xie<sup>2</sup>
-
-<sup>1</sup>Johns Hopkins University, <sup>2</sup>UCSC, <sup>3</sup>NVIDIA, <sup>4</sup>University of Edinburgh
-
-![](images/github_teaser.png)
-
-[paper](https://arxiv.org/abs/2312.13764) | Property-level Labels | Model Zoo | Training & Evaluation 
+  <!-- Links -->
+  <p>
+    <a href="https://arxiv.org/abs/2312.13764">Paper</a> | 
+    Property-level Labels | 
+    Model Zoo | 
+    Training & Evaluation
+  </p>
+</div>
 
 
 
