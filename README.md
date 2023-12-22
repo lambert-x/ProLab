@@ -1,8 +1,24 @@
 # ProLab: Property-level Label Space
 
-Paper | Project Page | Property-level Labels | Model Zoo
+
+
+**A Semantic Space is Worth 256 Language Descriptions: Make Stronger Segmentation Models with Descriptive Properties**
+
+
+
+Junfei Xiao<sup>1</sup>, Ziqi Zhou<sup>2</sup>, Wenxuan Li<sup>1</sup>, Shiyi Lan<sup>3</sup>, Zhiding Yu<sup>3</sup>, Jieru Mei<sup>1</sup>, Zhiding Yu<sup>3</sup>, Bingchen Zhao<sup>4</sup>, Alan Yuille<sup>1</sup>, Yuyin Zhou<sup>2</sup>, Cihang Xie<sup>2</sup>
+
+<sup>1</sup>Johns Hopkins University, <sup>2</sup>UCSC, <sup>3</sup>NVIDIA, <sup>4</sup>University of Edinburgh
+
+![](images/github_teaser.png)
+
+[paper](https://arxiv.org/abs/2312.13764) | Property-level Labels | Model Zoo | Training & Evaluation 
+
+
 
 ## News
+
+- [12/21] 🔥 **ProLab: Property-level Label Space** is released. We propose to retrieve descriptive properties grounded in common sense knowledge to build a property-level label space which makes strong interpretable segmentation models. Checkout the [paper](https://arxiv.org/abs/2312.13764).
 
 ## Method
 
@@ -10,13 +26,33 @@ Paper | Project Page | Property-level Labels | Model Zoo
 
 ![](images/method_descriptions_as_supervisions.png)
 
+## Emerged Generalization Ability
+
+
+
 ## Contents
+
+Setup
+
+Data Preparation
+
+Property-level Labels ([retrieved descriptive properties](./descriptors/), [encoded property-level embeddings](https://drive.google.com/drive/folders/1AVpMCi_CoT_JQfuuoVfUS2RLCQHk5fgI?usp=drive_link) )
+
+Property-level Label Generation Tutorials
+
+Model Zoo
+
+Training & Evaluation
+
+
+
+
 
 ## Getting Started
 
 Our segmentation code is developed on top of [MMSegmentation](https://github.com/open-mmlab/mmsegmentation/) and [ViT-Adapter](https://github.com/czczup/ViT-Adapter).
 
-### Install
+### Setup
 
 We have two tested environments based on **torch 1.9+cuda 11.1+MMSegmentation v0.20.2** and **torch 1.13.1+torch11.7+MMSegmentation v0.27.0**.
 
@@ -58,16 +94,18 @@ Please follow the [guidelines](https://github.com/open-mmlab/mmsegmentation/blob
 
 Please visit the [official website](https://bdd-data.berkeley.edu/) to download the **BDD** dataset.
 
-### Property-level Labels Preparation 
+### Property-level Labels Preparation
 
-#### Ready to use descriptive properties and clustered embeddings
-We provide the **[retrieved descriptive properties](./descriptors/)** (with GPT-3.5) and [property-level labels](https://drive.google.com/drive/folders/1AVpMCi_CoT_JQfuuoVfUS2RLCQHk5fgI?usp=drive_link) (language embeddings) .
+#### Descriptive Properties and Clustered Embeddings (Ready-to-use)
+
+We provide the [retrieved descriptive properties](./descriptors/) (with GPT-3.5) and [property-level labels](https://drive.google.com/drive/folders/1AVpMCi_CoT_JQfuuoVfUS2RLCQHk5fgI?usp=drive_link) (language embeddings) .
 
 #### Descriptive Properties Retrieval (Optional)
 
-We also provide **[generate_descrtiptions.ipynb](./generate_descrtiptions.ipynb)** using GPT 3.5 (API) and LLAMA-2 (local deploy) to retrieve descriptive properties. 
+We also provide [generate_descrtiptions.ipynb](./generate_descrtiptions.ipynb) using GPT 3.5 (API) and LLAMA-2 (local deploy) to retrieve descriptive properties. 
 
 #### Encode Descriptions into Embeddings (Optional)
+
 **[generate_embeddings.ipynb](./generate_embeddings.ipynb)** is also provided to encode and cluster the descriptive properties into embeddings with **Sentence Transformer** ([huggingface](https://huggingface.co/sentence-transformers), [paper](https://arxiv.org/abs/1908.10084)) and **BAAI-BGE** models ([huggingface](https://huggingface.co/BAAI/bge-large-en-v1.5), [paper](https://arxiv.org/abs/2309.07597v2)) step-by-step.
 
 ### Training
@@ -88,7 +126,7 @@ We also provide **[generate_descrtiptions.ipynb](./generate_descrtiptions.ipynb)
 
 | Method  | Backbone      | Pretrain                                                                         | Lr schd | Crop Size | mIoU | Config | Checkpoint |
 | ------- | ------------- | -------------------------------------------------------------------------------- | ------- | --------- | ---- | ------ | ---------- |
-| UperNet | ViT-Adapter-B | [DeiT-B](https://dl.fbaipublicfiles.com/deit/deit_base_patch16_224-b5f2ef4d.pth) | 320K    | 512       |      |        |            |
+| UperNet | ViT-Adapter-B | [DeiT-B](https://dl.fbaipublicfiles.com/deit/deit_base_patch16_224-b5f2ef4d.pth) | 160K    | 512       | 45.4 |        |            |
 
 **Pascal Context**
 
@@ -108,11 +146,18 @@ We also provide **[generate_descrtiptions.ipynb](./generate_descrtiptions.ipynb)
 | ------- | ------------- | -------------------------------------------------------------------------------- | ------- | --------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
 | UperNet | ViT-Adapter-B | [DeiT-B](https://dl.fbaipublicfiles.com/deit/deit_base_patch16_224-b5f2ef4d.pth) | 160K    | 768       | 65.7 | [config](./configs/bdd100k/upernet_deit_adapter_base_768_160k_bdd100k_bge_base_gpt3.5_cluster_32_cosine_simi_with_sigmoid_cosine_loss_temp_0.04_unnormalized.py) | [Google Drive](https://drive.google.com/file/d/1ksAPKhCs7pk8TyiP3LkBeq7QZoW_RiC4/view?usp=drive_link) |
 
-## Catalog
 
 ## Citation
 
-Please cite if this paper is useful to your work.
+If this paper is useful to your work, please cite:
+```latex
+@article{xiao2023semantic,
+  author    = {Xiao, Junfei and Zhou, Ziqi and Li, Wenxuan and Lan, Shiyi and Mei, Jieru and Yu, Zhiding and Yuille, Alan and Zhou, Yuyin and Xie, Cihang},
+  title     = {A Semantic Space is Worth 256 Language Descriptions: Make Stronger Segmentation Models with Descriptive Properties},
+  journal   = {arXiv preprint arXiv:2312.13764},
+  year      = {2023},
+}
+```
 
 ## Acknowledgement
 
