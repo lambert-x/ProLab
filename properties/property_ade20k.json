@@ -1,0 +1,1992 @@
+{
+    "Structural construction or architectural structure": [
+        "wall: Vertical structure that separates and encloses spaces",
+        "building: Architectural structure with enclosure",
+        "house: Residential structure for human habitation",
+        "fence: Linear structure enclosing an area",
+        "bridge: Structural construction connecting two points",
+        "booth: Enclosed structure, typically small and temporary",
+        "pole: Vertical cylindrical structure"
+    ],
+    "Rectangular or square shape with straight edges and corners": [
+        "wall: Typically rectangular or square shape with straight edges",
+        "wall: Corners and intersections create distinct edges and angles",
+        "building: Rectangular or irregular shape, often with straight edges",
+        "car: Rectangular shape with rounded edges",
+        "railing: Linear shape, often with evenly spaced bars or panels",
+        "counter: Rectangular or L-shaped shape, with straight edges and corners",
+        "pool table: Rectangular shape with four straight sides",
+        "countertop: Rectangular or L-shaped shape, with straight edges",
+        "kitchen island: Rectangular or square shape with smooth edges",
+        "bus: Rectangular shape with rounded edges",
+        "light: Shapeless and intangible",
+        "booth: Rectangular or square shape with defined boundaries"
+    ],
+    "Constructed with sturdy and durable materials": [
+        "wall: Solid construction made of materials like brick, concrete, or drywall",
+        "building: Constructed with materials such as brick, concrete, or glass",
+        "floor: Made of materials like wood, tile, carpet, or concrete",
+        "ceiling: Constructed from materials like plaster, wood, or metal",
+        "road: Typically made of asphalt or concrete",
+        "sidewalk: Constructed from materials like concrete or asphalt",
+        "wardrobe: Constructed from wood, metal, or composite materials",
+        "base: Made of sturdy materials like wood, metal, or concrete",
+        "skyscraper: Constructed from materials like steel, glass, or concrete",
+        "fireplace: Constructed from materials like brick, stone, or metal",
+        "grandstand: Constructed with sturdy materials like metal or concrete",
+        "path: Composed of various materials: concrete, gravel, dirt, etc.",
+        "stairs: Constructed from materials like wood, concrete, or metal",
+        "runway: Constructed from materials like asphalt or concrete",
+        "stairway: Constructed from materials like wood, metal, or concrete",
+        "bridge: Made from materials like concrete, steel, or wood",
+        "boat: Constructed from materials like wood, fiberglass, or metal",
+        "bar: Constructed with materials like wood, metal, or stone",
+        "hovel: Constructed from basic materials like wood, mud, or scrap metal",
+        "tower: Solid construction, often made of concrete or steel",
+        "booth: Constructed from materials like wood, metal, or fabric",
+        "escalator: Constructed from metal and durable materials",
+        "stage: Constructed with sturdy materials like wood or metal",
+        "ship: Constructed from materials like steel or fiberglass",
+        "fountain: Constructed from materials like stone, metal, or concrete",
+        "swimming pool: Constructed with materials like concrete, fiberglass, or vinyl",
+        "step: Typically made of a solid material like wood, stone, or concrete",
+        "storage tank: Made of durable materials like steel or concrete",
+        "pier: Constructed with sturdy materials like wood or concrete",
+        "shower: Constructed with waterproof materials like tiles or glass"
+    ],
+    "Surface texture can vary, ranging from smooth to textured": [
+        "wall: Surface can be smooth, rough, or textured depending on finish",
+        "ceiling: May have textured finishes like popcorn or smooth",
+        "cabinet: Smooth or textured surface, often painted or stained",
+        "painting: May have a smooth or textured surface",
+        "wardrobe: Smooth or textured surfaces, often painted or stained",
+        "base: May have a textured or smooth surface",
+        "bridge: Surface may be smooth or textured for traction",
+        "book: Pages are usually made of paper, may be smooth or textured",
+        "towel: May have a textured or patterned surface",
+        "truck: May have a textured or glossy finish",
+        "tower: Exterior may be smooth or textured",
+        "stage: Surface may be smooth or textured",
+        "fountain: Surface may be smooth or textured",
+        "plaything: May have different textures, such as smooth or soft",
+        "bag: Often has a smooth or textured surface",
+        "sculpture: May have a smooth or textured surface",
+        "pier: Surface may be smooth or textured",
+        "shower: Interior surfaces can have smooth or textured finishes",
+        "radiator: Surface may be smooth or ribbed for increased heat transfer"
+    ],
+    "Common colors include white, beige, gray, black, brown, or various shades": [
+        "wall: Common colors include white, beige, gray, or painted in various shades",
+        "floor: Common colors include brown, gray, beige, or white",
+        "curtain: Common colors include white, beige, or darker shades for privacy",
+        "toilet: Common colors include white or off-white",
+        "countertop: Common colors include white, black, gray, and beige",
+        "towel: Common colors include white, beige, or pastels",
+        "plate: Common colors include white, off-white, or various patterns"
+    ],
+    "Often adorned with decorative elements or embellishments": [
+        "wall: Often adorned with artwork, photographs, or mirrors",
+        "chandelier: Often adorned with crystals or beads",
+        "fountain: Often adorned with sculptures or decorative elements"
+    ],
+    "Provides visibility and safety during nighttime": [
+        "wall: May have switches, outlets, or light fixtures mounted on it",
+        "sky: At nighttime, may showcase the moon and stars",
+        "runway: May have lighting for nighttime use",
+        "streetlight: Provides visibility and safety during nighttime",
+        "streetlight: Some streetlights have sensors for automatic activation or dimming"
+    ],
+    "Varies in shape, size, height, length, and design": [
+        "wall: Variations include partition walls, retaining walls, or decorative walls",
+        "bed : Variations include different sizes (e.g., twin, queen, king) and styles (e.g., sleigh, platform)",
+        "person: Varying heights, body shapes, and sizes",
+        "plant: Varies in size and shape, ranging from small to tall and bushy",
+        "curtain: Varies in length, from floor-length to shorter styles",
+        "fence: Varies in height and length",
+        "wardrobe: Typically taller than wide, with varying heights",
+        "railing: Variations include different heights, widths, and decorative elements",
+        "cushion: Variations include different sizes, shapes, and decorative elements",
+        "base: Variations include adjustable bases or bases with wheels",
+        "column: Variations include different heights, diameters, and styles",
+        "skyscraper: Variations include different heights and designs",
+        "screen door: Variations may include different types of mesh or decorative patterns on the frame",
+        "bridge: Varies in shape and size, such as arch, suspension, or beam",
+        "bookcase: Variations include open or closed-back designs",
+        "bench: Variations include curved or slatted designs",
+        "apparel: Variations include different styles, such as shirts, pants, dresses, or jackets",
+        "pole: Variations include street light poles, flag poles, or utility poles",
+        "bannister: Variations include different heights, widths, and designs",
+        "bottle: Variations include different shapes, sizes, and designs",
+        "swimming pool: Common variations include Olympic-sized pools or infinity pools",
+        "stool: Variations include adjustable height or swivel feature",
+        "waterfall: Can vary in height and intensity",
+        "radiator: Variations include different sizes and designs",
+        "flag: Variations can include different sizes or proportions of the flag"
+    ],
+    "Commonly found in various environments such as homes, offices, public spaces, and buildings": [
+        "wall: Found in various environments such as homes, offices, or public spaces",
+        "door: Found in various environments such as homes, offices, or public buildings",
+        "desk: Can be found in various environments such as offices, classrooms, or homes",
+        "base: Found in various environments such as homes, offices, or outdoor settings",
+        "stairs: Commonly found in buildings, homes, and outdoor landscapes",
+        "case: Commonly found in homes, offices, or travel settings",
+        "screen door: Often found in residential settings, particularly on the entrance to a patio or porch",
+        "stairway: Often found in buildings or homes",
+        "book: Often found in libraries, bookstores, or personal collections",
+        "swivel chair: Found in various environments such as offices, homes, and conference rooms",
+        "chandelier: Commonly found in formal or grand spaces",
+        "awning: Often found above windows or entrances",
+        "bannister: Typically found along staircases or balconies",
+        "bannister: Contextually found in residential or commercial buildings",
+        "poster: Can be found in homes, offices, public spaces",
+        "swimming pool: Found in various environments, such as residential backyards, hotels, or recreational centers",
+        "ashcan: Commonly found in indoor and outdoor settings",
+        "bulletin board: Often found in offices, schools, or community spaces",
+        "clock: Found in various settings such as homes, offices, or public spaces"
+    ],
+    "Orientation can vary, either vertically or horizontally.": [
+        "building: Vertical orientation, typically taller than wide",
+        "bed : Typically oriented parallel to the floor",
+        "painting: Can be oriented in any direction",
+        "sofa: Typically oriented parallel to walls",
+        "mirror: Oriented vertically or horizontally",
+        "seat: Orientation depends on the type of seat (e.g., facing forward in a car seat)",
+        "cushion: Orientation depends on placement (e.g., flat on a chair or propped against a wall)",
+        "signboard: Typically mounted vertically",
+        "skyscraper: Vertical orientation with multiple stories",
+        "screen door: Oriented vertically within a door frame",
+        "book: Typically oriented vertically or horizontally",
+        "kitchen island: Usually positioned to allow easy access from all sides",
+        "television receiver: Typically oriented horizontally or mounted on a wall",
+        "apparel: Oriented to fit the human form",
+        "screen: Typically oriented vertically or horizontally",
+        "sconce: Typically has a vertical orientation",
+        "shower: Oriented vertically with a floor and walls",
+        "clock: Usually oriented horizontally or vertically",
+        "flag: Typically oriented vertically on a pole or horizontally on a surface"
+    ],
+    "May have multiple levels or floors": [
+        "building: May have multiple levels or floors",
+        "floor: Variations include different flooring types like laminate or vinyl",
+        "sidewalk: May have cracks or uneven sections",
+        "house: Can have multiple levels or stories",
+        "stairs: May have different finishes or coverings, such as carpet or tile",
+        "pillow: May have different firmness levels or fillings, such as memory foam or down",
+        "ship: May have multiple decks or levels",
+        "fountain: Central structure can be tall or short, with multiple tiers or levels",
+        "step: Often found in staircases or as part of a platform or stage"
+    ],
+    "Features windows or openings for passengers to look out of": [
+        "building: Exterior may feature windows, doors, and a roof",
+        "car: Features doors, windows, and a windshield",
+        "house: May have windows and doors",
+        "skyscraper: May have windows or balconies at various levels",
+        "bus: Features windows for passengers to look out of",
+        "airplane: Features windows along the fuselage"
+    ],
+    "Surrounded by outdoor spaces or architectural elements": [
+        "building: Can exhibit various architectural styles and designs",
+        "railing: Surrounds outdoor spaces like decks or terraces",
+        "column: Surrounding environment may include other columns or architectural elements",
+        "skyscraper: Can be surrounded by other buildings or open spaces",
+        "swimming pool: Surrounding area may include deck or patio for lounging",
+        "pier: Surrounding environment may include water, docks, or other piers",
+        "flag: Environmental context may include the flag being displayed on a flagpole, building, or at a specific event or location"
+    ],
+    "Often located in outdoor or public settings": [
+        "building: Often situated within a specific landscape or urban environment",
+        "signboard: Found in various environments: streets, buildings, stores",
+        "grandstand: Found in stadiums, racetracks, or outdoor venues",
+        "bench: Often found in parks, gardens, or public spaces",
+        "streetlight: Commonly found along roads, sidewalks, or in parking lots",
+        "pole: Found in various environments such as streets, parks, or construction sites",
+        "escalator: Often found in public spaces like malls or train stations",
+        "fountain: Can be found in public parks, gardens, or plazas",
+        "barrel: Found in various environments, such as wineries, breweries, or construction sites",
+        "storage tank: Often located outdoors or in industrial settings"
+    ],
+    "May have distinctive features or architectural elements": [
+        "building: May include distinctive features like spires, domes, or columns",
+        "skyscraper: May have distinctive architectural features, such as spires or antennas",
+        "animal: May have distinct features like horns, beaks, or tails"
+    ],
+    "Can have a decorative design or elements": [
+        "building: Can be adorned with decorative elements or signage",
+        "rock: Can be used for construction or decorative purposes",
+        "railing: Can be ornamental or minimalist in design",
+        "coffee table: Can be adorned with decorative items like books or vases",
+        "bar: Can have a variety of themed decorations or signage",
+        "chandelier: Elaborate, decorative design",
+        "trade name: Can be in the form of a logo or stylized text",
+        "sconce: Consists of a decorative backplate and a protruding arm or bracket"
+    ],
+    "Provides shelter or protection": [
+        "building: Provides shelter, housing, or commercial spaces",
+        "car: Often has a hood, trunk, and roof",
+        "grandstand: May have a roof or canopy for shade or protection from rain",
+        "hovel: Low height, with sloping or slanted roof",
+        "booth: Often has a roof or canopy for shelter",
+        "canopy: Canopies can vary in size and design, from small umbrellas to large awnings",
+        "tent: Portable shelter structure"
+    ],
+    "Can be found in various environments, including urban, suburban, and rural areas": [
+        "building: Can be found in urban, suburban, or rural areas",
+        "road: Surrounding environment can vary, such as urban or rural areas",
+        "house: Can be found in urban, suburban, or rural areas",
+        "fence: Can be found in residential, commercial, or agricultural settings",
+        "skyscraper: Often found in urban areas",
+        "bus: Can be found in urban or suburban areas",
+        "tower: Commonly found in urban or rural landscapes",
+        "land: Can be cultivated for agriculture or used for urban development"
+    ],
+    "Earth's atmosphere is expansive and consists of gases like nitrogen and oxygen.": [
+        "sky: Expansive upper atmosphere",
+        "earth: Atmosphere surrounds the earth, consisting of gases like nitrogen and oxygen"
+    ],
+    "Covered or surrounded by vegetation or landscaping": [
+        "sky: Canopy-like shape, covering the earth",
+        "grass: Ground cover consisting of vegetation",
+        "grass: Can be mowed or left to grow naturally",
+        "mountain: Covered in vegetation, snow, or bare rock",
+        "field: Often covered in grass or vegetation",
+        "path: Often surrounded by vegetation or landscape features",
+        "hill: Typically covered in grass, vegetation, or trees",
+        "hovel: Can be surrounded by sparse vegetation or open fields",
+        "dirt track: Surrounding vegetation or trees may border the track",
+        "swimming pool: May be enclosed within a fence or surrounded by landscaping",
+        "lake: Surrounded by land or vegetation"
+    ],
+    "Varies in color, ranging from neutral tones to vibrant hues": [
+        "sky: Varies in color from vibrant blue to pale gray",
+        "person: Skin color ranges from light to dark",
+        "chair: Colors range from neutral to vibrant",
+        "painting: Colors range from vibrant to muted, depending on the artist's intention",
+        "sofa: Colors range from neutral to vibrant",
+        "sea: Color ranges from deep blue to green or gray",
+        "rug: Common colors include neutral tones or vibrant patterns",
+        "armchair: Colors range from neutral tones to vibrant hues",
+        "seat: Colors range from neutral tones to vibrant hues",
+        "cushion: Common colors include neutral tones or vibrant patterns",
+        "apparel: Colors vary widely, from vibrant to neutral tones",
+        "shower: Colors range from neutral tones to vibrant hues"
+    ],
+    "Made of transparent or translucent material": [
+        "sky: Can be clear and unobstructed or filled with clouds",
+        "windowpane: Transparent or translucent sheet of glass or plastic",
+        "water: Transparent and colorless, but can appear blue or green due to reflection or impurities",
+        "blind: Can be opaque or translucent",
+        "screen: Can be transparent or opaque",
+        "vase: Can be transparent or opaque",
+        "glass: Transparent or translucent material",
+        "glass: Can be clear or tinted in various colors"
+    ],
+    "Exhibits varying levels of brightness and color throughout the day": [
+        "sky: Exhibits different levels of brightness throughout the day",
+        "sky: During daytime, often features the sun as a prominent element",
+        "sky: Occasionally displays weather phenomena such as rainbows or lightning",
+        "light: Varies in intensity and color temperature",
+        "crt screen: Emitting phosphors create colors and brightness",
+        "crt screen: May have adjustable settings for contrast and brightness"
+    ],
+    "Visible horizon line separates the sky from the earth": [
+        "sky: Visible horizon line separates the sky from the earth",
+        "sea: Extends horizontally, meeting the sky at the horizon"
+    ],
+    "Made from a variety of materials and can contain flying objects": [
+        "sky: Can contain flying objects like birds, airplanes, or drones",
+        "cushion: Made from materials like fabric, foam, or feathers",
+        "pillow: Filled with materials like feathers, foam, or polyester",
+        "basket: Made from materials like wicker, rattan, or bamboo",
+        "tent: Made of fabric or waterproof material",
+        "animal: Covered in skin, fur, feathers, scales, or exoskeleton"
+    ],
+    "Provides scenic views and is surrounded by natural elements or landscapes": [
+        "sky: Environmental context may include landscapes, such as mountains or city skylines",
+        "grass: Environmental context may include trees or flowers nearby",
+        "mountain: Surrounding landscape may include forests, rivers, or lakes",
+        "house: Surrounding landscape may include a yard or garden",
+        "field: Surrounding environment can include hills, mountains, or bodies of water",
+        "skyscraper: Environmental context may include nearby landmarks or cityscape",
+        "runway: Surrounding area may include taxiways and aprons",
+        "river: Surrounding environment can include trees, rocks, and vegetation",
+        "bridge: Environmental context includes surrounding landscape or waterway",
+        "hill: Can provide scenic views from the top",
+        "land: May feature natural elements like rivers, lakes, or forests",
+        "land: Environmental context includes climate, vegetation, and geological formations",
+        "lake: Surrounding environment may include trees, mountains, or buildings"
+    ],
+    "Elevated or raised horizontal surface": [
+        "floor: Horizontal expanse, foundational surface",
+        "ceiling: Horizontal surface located above the ground level",
+        "table: Horizontal surface elevated from the ground",
+        "desk: Horizontal surface with supporting legs or base",
+        "land: Horizontal surface covering the Earth's crust",
+        "stage: Elevated platform or area",
+        "waterfall: Vertical descent over rocks or cliffs",
+        "step: Horizontal surface with a raised elevation"
+    ],
+    "Generally flat or level": [
+        "floor: Typically flat and level",
+        "ceiling: Typically flat or slightly curved",
+        "chair: Seat is usually flat and horizontal",
+        "rug: Typically lies flat on the floor",
+        "field: Generally flat or gently sloping terrain",
+        "base: Generally flat and horizontal",
+        "towel: Typically flat and folded",
+        "stool: Legs are usually straight and evenly spaced"
+    ],
+    "Texture can vary from smooth to rough or textured": [
+        "floor: Texture can range from smooth to rough",
+        "bed : Texture can range from smooth to upholstered",
+        "plant: Texture can be smooth, rough, or hairy",
+        "curtain: Texture can range from smooth to textured or patterned",
+        "rock: Texture can range from smooth to coarse",
+        "cushion: Texture can range from smooth to textured",
+        "apparel: Textures can range from smooth to rough, depending on the fabric",
+        "bulletin board: Texture can be rough or smooth",
+        "flag: Texture can range from smooth to slightly rough"
+    ],
+    "Covered with a variety of materials, such as felt cloth, rugs, mats, carpet, fabric, leather, or synthetic materials": [
+        "floor: Often covered with rugs or mats",
+        "person: Typically covered in skin",
+        "seat: Often covered in fabric, leather, or synthetic materials",
+        "pool table: Covered with a green or blue felt cloth",
+        "pillow: Covered in fabric, often with a removable case",
+        "book: Covers can be hard or soft, made of materials like cardboard or leather",
+        "stage: Often covered with a carpet or flooring"
+    ],
+    "May have decorative patterns or designs": [
+        "floor: May have patterns or designs, such as tiles or hardwood planks",
+        "fence: May have decorative elements like lattice or pickets",
+        "pillow: Can be plain or adorned with patterns or embroidery",
+        "countertop: May have decorative patterns or veining",
+        "awning: May have patterns or designs on the fabric",
+        "apparel: Additional details may include patterns, prints, or embellishments",
+        "poster: Made of paper or thin cardstock",
+        "canopy: May have decorative elements like patterns or fringes",
+        "ball: May have patterns or designs on its surface",
+        "pot: Variations include pots with non-stick coatings or decorative patterns",
+        "blanket: Can be solid, striped, or have decorative designs",
+        "sculpture: Can be abstract or representational",
+        "plate: May have decorative designs or patterns",
+        "glass: May have decorative patterns or textures"
+    ],
+    "Supports furniture, such as tables, chairs, or beds": [
+        "floor: Supports furniture, such as tables, chairs, or beds",
+        "chair: Furniture item for sitting",
+        "sofa: Furniture piece for seating",
+        "armchair: Furniture piece for seating",
+        "bookcase: Vertical furniture piece",
+        "swivel chair: Rotating seating furniture"
+    ],
+    "Can be heated or cooled": [
+        "floor: Can be heated or cooled depending on the environment",
+        "rug: Can provide warmth and comfort in living spaces or bedrooms",
+        "sand: Can be hot to touch in direct sunlight",
+        "food: Can be hot or cold, depending on the dish",
+        "blanket: Provides insulation and can regulate body temperature",
+        "radiator: Heating device used to warm a space"
+    ],
+    "Environmental context in defining the use and significance of various items": [
+        "floor: Environmental context can include rooms, such as living room, bedroom, or kitchen",
+        "painting: Environmental context can include art galleries, museums, or private collections",
+        "cushion: Environmental context may include placement in a living room, bedroom, or outdoor seating area",
+        "counter: Environmental context may include appliances, sinks, or seating areas nearby",
+        "apparel: Environmental context can include occasions or seasons for wearing specific apparel",
+        "plaything: Environment may include playrooms, playgrounds, or homes",
+        "clock: Environmental context may include other objects or furniture nearby"
+    ],
+    "Living organism": [
+        "tree: Tall, vertical living organism",
+        "plant: Living organism, typically rooted in the ground",
+        "animal: Living organism, typically mobile"
+    ],
+    "Can have a single or multiple trunks": [
+        "tree: Trunk with branches extending outward",
+        "tree: Can have a single trunk or multiple trunks",
+        "tree: Leaves or needles on branches",
+        "tree: Can be deciduous or evergreen",
+        "plant: Generally upright or spreading, with branches or stems",
+        "palm: Tall, slender tree",
+        "palm: Single, straight trunk with no branches until the top"
+    ],
+    "Bark texture varies and can be rough and textured.": [
+        "tree: Bark texture varies by species",
+        "palm: Bark is rough and textured"
+    ],
+    "Common colors include white, brown, black, gray, metallic tones, green, and red.": [
+        "tree: Common colors include green, brown, and gray",
+        "door: Common colors include white, brown, or metallic tones",
+        "desk: Common colors include brown, black, white",
+        "rock: Colors vary, including shades of gray, brown, or red",
+        "chest of drawers: Common colors include brown, white, or black",
+        "sand: Light brown or golden color",
+        "bookcase: Common colors include brown, black, white",
+        "swivel chair: Common colors include black, brown, gray, and white",
+        "bar: Common colors include dark brown, black, or metallic tones",
+        "bulletin board: Common colors include brown, gray, or black"
+    ],
+    "Provides shade and shelter for animals and humans": [
+        "tree: Provides shade and habitat for animals",
+        "palm: Can provide shade and shelter for animals and humans"
+    ],
+    "Can bear edible fruits, flowers, or nuts": [
+        "tree: Can have flowers, fruits, or nuts",
+        "plant: Some plants have flowers or fruits",
+        "field: Common features include trees, bushes, or flowers",
+        "flower: Botanical reproductive structure",
+        "palm: Some species bear edible fruits, like coconuts or dates"
+    ],
+    "Found in various environments and habitats": [
+        "tree: Found in various environments, such as forests, parks, and gardens",
+        "grass: Often found in lawns, meadows, or fields",
+        "plant: Can be found in various habitats, such as forests, gardens, or deserts",
+        "flower: Found in various environments, such as gardens, meadows, or forests",
+        "flower: Different species exhibit unique characteristics and growth patterns",
+        "palm: Often found in tropical or subtropical environments"
+    ],
+    "Often painted in neutral colors": [
+        "ceiling: Often painted in a neutral color like white or off-white",
+        "bed : Colors often neutral, such as white, gray, or beige",
+        "sidewalk: Gray or light-colored, but can be painted or stained",
+        "screen door: Typically painted in neutral colors like white or black",
+        "streetlight: Often painted in a neutral color, such as black or gray",
+        "storage tank: Typically painted in neutral colors like gray or white",
+        "fan: Often painted in neutral colors like white or black"
+    ],
+    "Features hanging or wall-mounted light fixtures": [
+        "ceiling: Features light fixtures, such as recessed or hanging lamps",
+        "curtain: Hanging fabric or material",
+        "bathtub: Can be standalone or part of a larger bathroom fixture",
+        "chandelier: Hanging lighting fixture",
+        "streetlight: Tall, slender pole with a light fixture at the top",
+        "sconce: Wall-mounted light fixture"
+    ],
+    "Can have decorative elements": [
+        "ceiling: Can have decorative elements like moldings or beams",
+        "cabinet: May have decorative elements like handles or knobs",
+        "door: Can be decorated with panels, carvings, or glass inserts",
+        "mirror: May have decorative elements like etching or beveled edges",
+        "wardrobe: May have decorative elements like carvings or moldings",
+        "column: May feature ornate carvings or engravings",
+        "chest of drawers: May have additional decorative elements like carvings or inlays",
+        "fireplace: May have decorative elements like tiles or carvings",
+        "bridge: May have decorative elements or lighting",
+        "vase: May have handles or decorative elements"
+    ],
+    "Can be opened or closed for ventilation": [
+        "ceiling: May include ventilation systems or ceiling fans",
+        "windowpane: Can be opened or closed for ventilation",
+        "door: May have a peephole or window for visibility",
+        "field: Open, outdoor area",
+        "truck: Cargo area may have a cover or open bed",
+        "escalator: Can be enclosed or open-air",
+        "washer: May have a transparent window to monitor the washing process",
+        "tent: May have windows or ventilation openings",
+        "oven: May have a glass window on the door for monitoring cooking progress",
+        "shower: Enclosed space for bathing"
+    ],
+    "Varies in width, height, and depth": [
+        "ceiling: Provides a sense of height and enclosure to a room or space",
+        "stairs: Varies in width and height of steps",
+        "stairway: Can have variations in width and height of steps",
+        "river: Can vary in width and depth",
+        "waterfall: Can be narrow or wide, depending on the volume of water",
+        "storage tank: Can vary in size and capacity",
+        "ashcan: Can vary in size and capacity"
+    ],
+    "Linear pathway or route for vehicles, pedestrians, hiking, or walking": [
+        "road: Linear pathway for vehicles and pedestrians",
+        "sidewalk: Horizontal pathway adjacent to a road or building",
+        "path: Linear route or trail",
+        "hill: May have trails or paths for hiking or walking",
+        "dirt track: Linear pathway on the ground"
+    ],
+    "Flat and smooth surface": [
+        "road: Flat, smooth surface with slight curvature",
+        "windowpane: Smooth, flat surface",
+        "sidewalk: Smooth, even surface for walking or cycling",
+        "table: Flat top with smooth or textured finish",
+        "box: Straight edges and flat surfaces",
+        "runway: Typically flat and smooth surface",
+        "pool table: Flat, level playing surface",
+        "screen: Flat surface with smooth texture",
+        "tray: Flat, horizontal surface with raised edges",
+        "crt screen: Flat, smooth surface",
+        "plate: Smooth surface with a slight curvature at the edges",
+        "glass: Typically flat and smooth surface"
+    ],
+    "Marked with signs or indicators": [
+        "road: May have lane markings and signage",
+        "road: May have traffic lights or road signs for guidance",
+        "sidewalk: Features street signs, lamp posts, or benches along its edge",
+        "path: Can be marked with signs or arrows",
+        "bus: Often displays signage indicating route or destination",
+        "booth: May have signage or branding",
+        "escalator: May have signage or directional indicators",
+        "traffic light: Lights indicate traffic regulations: stop, prepare to stop, go",
+        "traffic light: May have additional features like pedestrian signals or countdown timers"
+    ],
+    "Long, narrow strip of land or pavement, often bordered by curbs or sidewalks, and may have boundaries like fences or hedges.": [
+        "road: Often bordered by curbs or sidewalks",
+        "sidewalk: Often bordered by curbs or grassy strips",
+        "field: May have boundaries like fences or hedges",
+        "runway: Long, narrow strip of land or pavement"
+    ],
+    "Can have a straight, curved, or spiral shape": [
+        "road: Can be straight or winding",
+        "chair: Legs can be straight or tapered",
+        "path: Can be straight or winding",
+        "stairs: Can be straight, curved, or spiral in shape",
+        "river: Long and winding shape, often meandering"
+    ],
+    "Connects different locations or serves as a route": [
+        "road: Connects different locations or serves as a route",
+        "path: May connect different locations or serve as a recreational route",
+        "bus: Operates on roads or designated bus lanes"
+    ],
+    "Horizontal structure or furniture piece": [
+        "bed : Horizontal furniture piece for sleeping or resting",
+        "shelf: Horizontal structure for storage or display",
+        "seat: Horizontal surface designed for sitting",
+        "grandstand: Elevated seating structure",
+        "bench: Horizontal seating structure"
+    ],
+    "Rectangular shape with a vertical orientation": [
+        "bed : Rectangular shape with a raised platform",
+        "cabinet: Rectangular shape with vertical orientation",
+        "wardrobe: Vertical rectangular shape with doors or drawers",
+        "chest of drawers: Rectangular shape with vertical orientation",
+        "refrigerator: Rectangular shape with a vertical orientation",
+        "arcade machine: Rectangular shape with vertical orientation",
+        "radiator: Vertical, rectangular shape"
+    ],
+    "Primary physical characteristics of each item": [
+        "bed : Primary physical characteristics include a mattress and a frame",
+        "screen door: Primary physical characteristics include a sturdy frame and a lightweight, breathable screen",
+        "television receiver: Primary physical characteristics include a screen, speakers, and control buttons",
+        "screen: Can be protected by a screen protector or housed within a frame or bezel"
+    ],
+    "Made of various materials, including metal, wood, stone, concrete, plastic, and glass": [
+        "bed : Material composition varies, commonly wood or metal",
+        "cabinet: Typically made of wood, metal, or plastic",
+        "earth: Primarily composed of rock and metal",
+        "shelf: Typically made of wood, metal, or plastic",
+        "house: Typically made of brick, wood, or concrete",
+        "fence: Typically made of materials like wood, metal, or wire",
+        "desk: Typically made of wood, metal, or composite materials",
+        "railing: Typically made of metal, wood, or glass",
+        "box: Solid construction, typically made of cardboard, wood, or plastic",
+        "column: Typically made of stone, concrete, or metal",
+        "chest of drawers: Typically made of wood or composite materials",
+        "case: Solid construction, often made of wood, metal, or plastic",
+        "pool table: Typically made of wood or slate",
+        "screen door: Material commonly used for the frame is aluminum or wood",
+        "bookcase: Typically made of wood or metal",
+        "coffee table: Typically made of wood, glass, or metal",
+        "bench: Typically made of wood or metal",
+        "kitchen island: Typically made of wood, granite, or marble",
+        "truck: Made of metal, often with a painted exterior",
+        "pole: Typically made of metal or wood",
+        "van: Made of metal, often with windows and doors",
+        "barrel: Typically made of wood or metal",
+        "cradle: Typically made of sturdy materials like wood or metal",
+        "sculpture: Often made from materials like stone, metal, or clay"
+    ],
+    "Features various elements and additional features": [
+        "bed : Common features include a headboard and footboard",
+        "cabinet: Can be customized with different finishes or materials",
+        "curtain: May have additional features like tiebacks or valances",
+        "sofa: May have additional features like reclining or convertible functionality",
+        "armchair: May feature decorative elements like buttons or tufting",
+        "arcade machine: May have additional features like speakers or ticket dispensers",
+        "streetlight: May have a curved or angled arm to extend the light",
+        "television receiver: May have additional elements like a remote control or stand",
+        "bannister: May feature decorative elements like finials or balusters",
+        "barrel: Features metal hoops or bands around the circumference",
+        "cradle: May have additional elements like a rocking mechanism or adjustable height",
+        "storage tank: May have safety features like pressure relief valves or level indicators",
+        "blanket: May have additional features like fringes or tassels",
+        "sconce: May have adjustable features or additional decorative elements",
+        "pier: Features support beams and pilings",
+        "flag: Additional details may include the presence of grommets or loops for attachment to a pole"
+    ],
+    "Can have additional elements or features": [
+        "bed : May have additional elements like side rails or storage drawers",
+        "table: May have additional features like drawers or shelves",
+        "shelf: May include additional features like drawers or cabinets",
+        "chest of drawers: Features multiple drawers with handles or knobs",
+        "coffee table: May have additional storage compartments or drawers",
+        "kitchen island: Can have a built-in sink or stove",
+        "van: May have additional features like roof racks or sliding doors",
+        "swimming pool: Can include additional elements like diving boards or water slides"
+    ],
+    "Often found in various rooms such as living rooms, bedrooms, offices, or recreational areas": [
+        "bed : Often found in bedrooms or sleeping areas",
+        "sofa: Commonly found in living rooms, lounges, or waiting areas",
+        "armchair: Can be found in living rooms, bedrooms, or office spaces",
+        "wardrobe: Can be found in bedrooms, dressing rooms, or walk-in closets",
+        "chest of drawers: Often found in bedrooms or living rooms",
+        "fireplace: Often found in living rooms or family rooms",
+        "pool table: Found in game rooms, bars, or recreational areas",
+        "bookcase: Often found in living rooms, offices, or libraries",
+        "television receiver: Typically found in living rooms, bedrooms, or entertainment areas",
+        "ottoman: Typically placed in living rooms or bedrooms"
+    ],
+    "Typically has a rectangular or circular shape": [
+        "windowpane: Typically rectangular or square shape",
+        "sidewalk: Rectangular shape, typically straight or slightly curved",
+        "table: Typically rectangular or round shape",
+        "painting: Typically rectangular or square shape",
+        "mirror: Typically rectangular or circular shape",
+        "cushion: Typically rectangular or square shape",
+        "fireplace: Typically rectangular or square shape",
+        "grandstand: Typically rectangular or curved shape",
+        "screen door: Rectangular shape, typically taller than wide",
+        "blind: Typically rectangular or square shape",
+        "swivel chair: Typically has a circular or square base",
+        "bar: Typically rectangular or square shape",
+        "stage: Typically rectangular or square shape",
+        "conveyer belt: Long and narrow shape, typically rectangular",
+        "tray: Typically rectangular or circular shape",
+        "pier: Typically rectangular or elongated shape",
+        "bulletin board: Typically rectangular or square shape",
+        "shower: Typically rectangular or square shape",
+        "clock: Typically circular or rectangular shape"
+    ],
+    "Rectangular shape": [
+        "windowpane: Positioned within a window frame",
+        "door: Rectangular shape with a frame",
+        "sofa: Rectangular shape with a backrest and armrests",
+        "case: Rectangular or box-like structure",
+        "bookcase: Rectangular shape with multiple shelves",
+        "bench: Rectangular shape with a backrest",
+        "truck: Rectangular shape with a cab and cargo area",
+        "van: Rectangular shape with a roof and enclosed sides",
+        "bicycle: Frame shaped like a diamond or step-through"
+    ],
+    "Allows light to pass through while controlling airflow": [
+        "windowpane: Allows light to pass through while blocking airflow",
+        "lamp: Can have a lampshade for diffusing light",
+        "screen door: Mesh panel allows airflow while keeping insects out",
+        "canopy: Can be solid or open, allowing light to pass through"
+    ],
+    "Reflective or capable of reflecting light": [
+        "windowpane: May have a reflective coating or tint",
+        "earth: Oceans appear blue due to reflection of sunlight",
+        "mirror: Reflective surface used for viewing oneself or surroundings",
+        "river: May have a reflective surface, mirroring surroundings",
+        "light: Can be emitted or reflected",
+        "light: Can cast shadows or create reflections",
+        "buffet: May have glass or mirrored elements"
+    ],
+    "Found in various settings or environments": [
+        "windowpane: Often found in buildings, vehicles, or other enclosed spaces",
+        "house: May have a driveway or garage for vehicles",
+        "seat: Found in various settings, such as vehicles, theaters, or homes",
+        "blind: Commonly found in homes, offices, or vehicles",
+        "conveyer belt: Can be found in factories, airports, and warehouses",
+        "radiator: Found in various environments such as homes, offices, or vehicles",
+        "glass: Can be found in architectural structures, vehicles, and household items"
+    ],
+    "Has a crown of large, fan-shaped leaves at the top": [
+        "grass: Typically grows in tufts or blades",
+        "flower: Typically has a stem and petals",
+        "flower: Petals may be smooth, waxy, or velvety",
+        "flower: Common features include stamens, pistils, and sepals",
+        "palm: Crown of large, fan-shaped leaves at the top"
+    ],
+    "Orientation can vary, but typically upright or inclined": [
+        "grass: Orientation varies, generally upright",
+        "path: May have a slight incline or decline",
+        "stairs: Typically inclined at an angle, allowing for easy movement",
+        "case: Typically upright and closed",
+        "stairway: Typically inclined at an angle",
+        "flower: Can be upright or drooping",
+        "escalator: Inclined orientation, typically between floors"
+    ],
+    "Each item has primary physical characteristics that define its nature": [
+        "grass: Primary physical characteristic is its softness",
+        "painting: Primary physical characteristics include brushstrokes, layers, and texture",
+        "cushion: Primary physical characteristics include thickness and pliability",
+        "river: Primary physical characteristic is the presence of water",
+        "book: Primary physical characteristics include a cover, spine, and pages",
+        "apparel: Primary physical characteristics include fabric, stitching, and closures",
+        "flag: Primary physical characteristics include length, width, and thickness of the fabric"
+    ],
+    "Natural formation or composition": [
+        "grass: Material is living plant matter",
+        "rock: Natural solid formation",
+        "waterfall: Natural formation of flowing water"
+    ],
+    "Smooth and soft texture": [
+        "grass: Texture is smooth and fine",
+        "water: Smooth and flowing texture",
+        "rug: Soft and plush texture",
+        "sand: Soft and smooth texture",
+        "food: Texture can range from soft to crunchy",
+        "blanket: Soft and cozy texture"
+    ],
+    "Comes in earthy colors or tones": [
+        "grass: Color ranges from vibrant green to yellowish-brown",
+        "mountain: Earthy tones, including shades of brown, gray, and green",
+        "hill: Earthy colors like green, brown, or yellow",
+        "hovel: Earthy tones or faded colors"
+    ],
+    "Common features or characteristics": [
+        "grass: Common features include dewdrops or small insects",
+        "person: Facial features include eyes, nose, mouth",
+        "painting: Common features include subjects, such as landscapes, portraits, or abstract forms",
+        "book: Common features include a title, author, and publisher information on the cover",
+        "animal: Can be domesticated or wild, with different levels of interaction with humans",
+        "sculpture: Common features include human figures, animals, or objects",
+        "flag: Common features include symbols, emblems, or logos representing the entity it represents"
+    ],
+    "Can be freestanding or built-in": [
+        "cabinet: Freestanding or built-in storage furniture",
+        "wardrobe: Freestanding or built-in furniture piece"
+    ],
+    "Contains drawers, compartments, or shelves for storage": [
+        "cabinet: Features doors, drawers, or shelves for organization",
+        "desk: Features drawers or compartments for storage",
+        "wardrobe: Contains compartments or shelves for storage",
+        "chest of drawers: Furniture piece with storage compartments",
+        "refrigerator: Contains shelves, drawers, and compartments for organization",
+        "refrigerator: May include a freezer compartment or ice maker",
+        "bookcase: Holds books, magazines, or decorative items",
+        "book: Pages contain printed text and images, organized into chapters or sections",
+        "buffet: Often features shelves or compartments for storage",
+        "ship: Features various compartments, such as cabins or cargo holds",
+        "bag: May have compartments or pockets for organization",
+        "minibike: May have a small storage compartment or basket",
+        "dishwasher: Contains racks or compartments for organizing dishes"
+    ],
+    "Comes in various sizes and dimensions": [
+        "cabinet: Can be found in various sizes and styles",
+        "shelf: Can be found in various sizes and widths",
+        "box: Can be found in different sizes and dimensions",
+        "towel: Various sizes available, from hand towels to bath towels",
+        "tray: Can be found in various sizes and depths"
+    ],
+    "Commonly used in kitchens, living rooms, offices, dining rooms, or restaurants": [
+        "cabinet: Commonly used in kitchens, bathrooms, or offices",
+        "chair: Often found in dining rooms, offices, or living rooms",
+        "shelf: Often used in kitchens, living rooms, or offices",
+        "coffee table: Commonly used in living rooms or lounges",
+        "tray: Commonly used in kitchens, restaurants, or offices"
+    ],
+    "Used for transportation purposes": [
+        "sidewalk: Provides pedestrian access and separates pedestrians from vehicular traffic",
+        "van: Used for transportation of people or goods",
+        "conveyer belt: Horizontal mechanism for transporting objects",
+        "conveyer belt: Used in industries for automated transportation of goods",
+        "minibike: Often used for recreational purposes or short-distance transportation"
+    ],
+    "Used for washing, cleaning, and waste disposal": [
+        "person: Human individual",
+        "sink: Plumbing fixture used for washing or cleaning",
+        "toilet: Sanitary fixture for human waste disposal",
+        "ashcan: Used for collecting and disposing of waste"
+    ],
+    "Oriented in various positions, including upright, horizontal, and inclined": [
+        "person: Upright posture, bipedal locomotion",
+        "runway: Straight and level orientation",
+        "river: Orientation follows the path of least resistance",
+        "bar: Horizontal orientation, parallel to the ground",
+        "pole: Straight and upright orientation",
+        "cradle: Oriented horizontally, with a gentle incline",
+        "storage tank: Vertical orientation, standing upright",
+        "ashcan: Upright orientation"
+    ],
+    "May have visible features or characteristics": [
+        "person: Hair may be present on head and body",
+        "rock: May have visible layers or striations",
+        "kitchen island: May have a contrasting color or material from surrounding countertops",
+        "step: May have a contrasting color or pattern to indicate visibility",
+        "storage tank: May have visible pipes or valves attached"
+    ],
+    "Possesses limbs or appendages with arms, legs, fingers, and toes.": [
+        "person: Limbs consist of arms and legs",
+        "person: Hands have fingers, feet have toes",
+        "animal: Possesses a body with limbs or appendages"
+    ],
+    "Worn on the body for protection and adornment": [
+        "person: Wears clothing for protection and adornment",
+        "apparel: Clothing or garments worn on the body",
+        "blanket: Can be folded or draped over the body"
+    ],
+    "Displays a range of behaviors and communication methods": [
+        "person: Expresses emotions through facial expressions",
+        "person: Engages in various activities and interactions",
+        "animal: Displays a variety of behaviors and communication methods"
+    ],
+    "Available in different styles and variations": [
+        "person: Can be found in different environments and cultures",
+        "painting: Variations include different art styles like impressionism, surrealism, or realism",
+        "rug: Can be found in various cultural or regional styles",
+        "wardrobe: Available in different styles, such as modern or antique",
+        "food: May have cultural or regional variations"
+    ],
+    "Spherical shape": [
+        "earth: Spherical celestial body",
+        "ball: Spherical object"
+    ],
+    "Roughly spherical shape with a slight bulge at the equator": [
+        "earth: Roughly spherical shape with slight bulge at the equator"
+    ],
+    "Composed of diverse elements such as landmasses, water bodies, soil, rocks, vegetation, etc.": [
+        "earth: Surface covered in landmasses (continents) and water bodies (oceans)",
+        "land: Composed of soil, rocks, vegetation, and water bodies",
+        "animal: Found in diverse habitats, including land, water, and air"
+    ],
+    "Varies in shape, elevation, and geological formations": [
+        "earth: Landmasses exhibit diverse shapes and sizes",
+        "earth: Features geological formations such as mountains, valleys, and plains",
+        "mountain: Valleys or ravines may be present",
+        "river: Common features include riverbanks and riverbeds",
+        "land: Varies in shape and elevation, including flat plains, rolling hills, or rugged mountains",
+        "land: Landforms can include valleys, plateaus, deserts, or coastal areas"
+    ],
+    "Exhibits diverse colors, including green, brown, and white": [
+        "earth: Landmasses display various colors, including green (vegetation), brown (soil), and white (snow/ice)",
+        "palm: Leaves are typically green, but can vary in shades",
+        "land: Exhibits diverse colors, such as green grass, brown soil, or white snow",
+        "lake: Reflects the colors of the sky and surrounding landscape"
+    ],
+    "Supports diverse marine life and ecosystems": [
+        "earth: Supports diverse ecosystems and habitats for living organisms",
+        "sea: Contains diverse marine life, such as fish, dolphins, and coral reefs",
+        "river: Can be home to aquatic life such as fish and waterfowl",
+        "lake: Supports aquatic life such as fish, plants, and birds"
+    ],
+    "Rotates on its axis and revolves around the sun": [
+        "earth: Experiences day and night due to rotation on its axis",
+        "earth: Revolves around the sun, resulting in seasons and varying climates"
+    ],
+    "Interacts with other celestial bodies in the solar system": [
+        "earth: Interacts with other celestial bodies in the solar system, including the moon and other planets"
+    ],
+    "Vertical structure connecting different levels": [
+        "door: Vertical structure serving as an entry or exit point",
+        "stairs: Vertical structure used for ascending or descending between different levels",
+        "stairway: Vertical structure connecting different levels"
+    ],
+    "Features a hinged or removable lid for access": [
+        "door: Typically hinged or sliding mechanism",
+        "box: Features a hinged or removable lid for access",
+        "case: May have a hinged or sliding lid for access",
+        "stove: Can have an oven compartment below the top surface",
+        "ottoman: Can be used as additional storage with a hinged top",
+        "basket: Can be open or have a lid",
+        "bag: Portable container with an opening"
+    ],
+    "Constructed or made from various materials such as wood, metal, glass, plastic, fabric, vinyl, etc.": [
+        "door: Made of materials like wood, metal, or glass",
+        "table: Constructed from materials like wood, metal, or plastic",
+        "chair: Made from various materials like wood, metal, or plastic",
+        "car: Made of metal, plastic, and glass",
+        "seat: Constructed from materials like wood, metal, or plastic",
+        "lamp: Made of materials like metal, glass, or plastic",
+        "signboard: Made of materials like metal, wood, or plastic",
+        "blind: Made of materials like fabric, vinyl, or metal",
+        "chandelier: Made of materials like crystal, glass, or metal",
+        "television receiver: Made of materials like plastic, metal, and glass",
+        "bannister: Constructed from materials like wood, metal, or glass",
+        "buffet: Made of wood, metal, or plastic",
+        "conveyer belt: Made of durable materials like rubber or metal",
+        "canopy: Made of materials like fabric, metal, or wood",
+        "plaything: Made from materials like plastic, wood, or fabric",
+        "stool: Made from materials like wood, metal, or plastic",
+        "screen: Made of materials like glass or plastic",
+        "hood: Made from materials like metal, plastic, or fabric",
+        "sconce: Made of materials like metal, glass, or ceramic",
+        "vase: Made of materials like glass, ceramic, or metal",
+        "tray: Made of materials like plastic, metal, or wood",
+        "fan: Made of materials like plastic or metal",
+        "crt screen: Made of glass and metal components",
+        "monitor: Made of materials like plastic or metal",
+        "bulletin board: Made of materials like cork, fabric, or metal",
+        "clock: Made of materials like metal, plastic, or wood"
+    ],
+    "Smooth or textured surface": [
+        "door: Smooth or textured surface, depending on material",
+        "desk: Smooth or textured surface, depending on material",
+        "box: Smooth or textured surface depending on material",
+        "column: Smooth or textured surface",
+        "signboard: Smooth or textured surface",
+        "chest of drawers: Smooth or textured surface, depending on finish",
+        "skyscraper: Smooth or reflective surfaces",
+        "stairway: Surface can be smooth or textured for traction",
+        "bookcase: Smooth or textured surface",
+        "bench: Smooth or textured surface",
+        "stove: Smooth or slightly textured surface",
+        "kitchen island: Smooth and solid surface for food preparation",
+        "pole: Smooth or textured surface",
+        "bannister: Can have a smooth or textured surface",
+        "bottle: Smooth or textured surface",
+        "buffet: Smooth or textured surface",
+        "washer: Smooth surface with buttons and controls",
+        "barrel: Smooth or textured surface, depending on material",
+        "step: Smooth or textured surface depending on material",
+        "storage tank: Smooth or corrugated surface",
+        "pot: Smooth or textured surface, depending on material",
+        "vase: Smooth or textured surface",
+        "ashcan: Smooth surface with minimal texture"
+    ],
+    "Features a handle or knob for opening and closing": [
+        "door: Features a handle or knob for opening and closing",
+        "refrigerator: Features a door with a handle for access",
+        "screen door: Features a handle or latch for opening and closing",
+        "pot: Often has a handle for easy lifting and pouring"
+    ],
+    "Can have various door configurations and options": [
+        "door: Variations include double doors, revolving doors, or garage doors",
+        "wardrobe: Can have a mirror on one or more doors",
+        "bus: May have doors on the sides or at the front and back",
+        "booth: Can be open on one or more sides"
+    ],
+    "Supported by legs or a base for stability and balance": [
+        "table: Often supported by legs or a central pedestal",
+        "armchair: Often has wooden or metal legs for support",
+        "base: Provides stability and balance for objects placed on top",
+        "fireplace: Hearth serves as the base, often elevated",
+        "coffee table: Often features legs or a solid base for support",
+        "swivel chair: Features a central column that connects the base to the seat",
+        "ottoman: May have wooden or metal legs for support",
+        "stool: Typically has three or four legs",
+        "tent: Supported by poles or framework"
+    ],
+    "Versatile and multi-functional": [
+        "table: Commonly used for dining, working, or displaying objects",
+        "counter: Can be used for food preparation, dining, or displaying merchandise",
+        "countertop: Provides a workspace for food preparation or other tasks",
+        "buffet: Furniture piece used for serving food",
+        "buffet: Offers a variety of food options for self-service",
+        "basket: Used in a variety of contexts, such as picnics, shopping, or home decor",
+        "food: Served on plates, bowls, or in containers",
+        "tray: Often used for serving or organizing items",
+        "plate: Often used for serving food or as a dining utensil"
+    ],
+    "Comes in different variations or types": [
+        "table: Variations include coffee tables, dining tables, and side tables",
+        "chair: Variations include armchairs, rocking chairs, or recliners",
+        "sofa: Variations include sectional sofas, loveseats, or futons",
+        "counter: Variations include island counters, bar counters, or corner counters",
+        "book: Variations include different genres, formats (e.g., paperback, hardcover), and editions (e.g., first edition, special edition)"
+    ],
+    "Can be found in various environments or settings": [
+        "table: Can be found in various environments such as homes, offices, or restaurants",
+        "curtain: Can be found in various settings, such as homes, hotels, or theaters",
+        "stairway: Can be indoors or outdoors, depending on the location",
+        "bar: Social establishment for drinking and socializing",
+        "bar: Can be indoor or outdoor, with outdoor bars often having seating or umbrellas",
+        "booth: Can be found at events, fairs, or exhibitions",
+        "stage: Can be found in theaters, concert halls, or event venues",
+        "trade name: Context-dependent, appearing in various industries and sectors",
+        "plate: Can be found in various environments such as homes, restaurants, or events"
+    ],
+    "Natural landform with elevation": [
+        "mountain: Natural landform, typically elevated and rocky",
+        "hill: Natural landform with elevation"
+    ],
+    "Typically has a rectangular, cylindrical, conical, pyramidal, ridged, arched, or curved shape": [
+        "mountain: Conical, pyramidal, or ridged shape",
+        "lamp: Typically cylindrical or conical shape",
+        "skyscraper: Typically rectangular or cylindrical shape",
+        "tower: Typically cylindrical or rectangular shape",
+        "canopy: Typically arched or curved shape",
+        "basket: Typically has a rounded or cylindrical shape",
+        "tent: Typically conical or rectangular shape",
+        "bag: Typically has a rectangular or cylindrical shape",
+        "vase: Typically cylindrical or conical shape"
+    ],
+    "Often found in natural or scenic environments": [
+        "mountain: Sloping sides, often steep or rugged",
+        "mountain: Peaks or summits at the highest points",
+        "rock: Commonly found in outdoor environments, like mountains or riverbeds",
+        "sand: Often associated with coastal landscapes",
+        "hill: Often found in hilly landscapes or mountainous regions",
+        "hovel: Often found in impoverished or rural areas",
+        "waterfall: Often found in mountainous or hilly landscapes",
+        "waterfall: Often a popular tourist attraction or scenic spot"
+    ],
+    "Comes in varying sizes and heights": [
+        "mountain: Can vary in size and height, from small hills to towering peaks",
+        "ottoman: Comes in various sizes and heights",
+        "vase: Comes in various sizes and heights"
+    ],
+    "Common colors include clear, green, brown, or opaque": [
+        "plant: Leaves are common, often green, but can be variegated or colored",
+        "bottle: Common colors include clear, green, brown, or opaque"
+    ],
+    "Equipped with lighting fixtures, sound equipment, and decorative water features": [
+        "plant: Environmental factors like sunlight and water affect growth and appearance",
+        "bar: Background music or live entertainment may be present",
+        "stage: Equipped with lighting fixtures and sound equipment",
+        "fountain: Decorative water feature",
+        "fountain: May have lighting effects or music synchronized with water movement",
+        "waterfall: Sound of rushing water can be heard nearby"
+    ],
+    "Variations in types and orientations": [
+        "curtain: Vertical orientation, typically covering windows or doorways",
+        "blind: Vertical covering for windows or openings",
+        "blind: Variations include roller blinds, Venetian blinds, or vertical blinds"
+    ],
+    "Made of various materials": [
+        "curtain: Can be made of various materials like cotton, silk, or polyester",
+        "rug: Made from materials like wool, cotton, or synthetic fibers",
+        "swivel chair: Often made of materials like leather, fabric, or synthetic materials",
+        "towel: Soft and absorbent material, often cotton",
+        "apparel: Made from materials like cotton, polyester, silk, or leather",
+        "basket: Container made of woven or interlaced materials",
+        "bag: Can be made of various materials such as fabric, leather, or plastic",
+        "blanket: Commonly made of materials like cotton, wool, or fleece",
+        "flag: Made from various materials such as nylon, polyester, or cotton"
+    ],
+    "Often used for light control, privacy, or decorative purposes": [
+        "curtain: Often used for light control, privacy, or decorative purposes",
+        "lamp: Commonly used for indoor lighting purposes",
+        "blind: Often used for privacy or light control",
+        "sconce: Commonly used in hallways, entryways, or as accent lighting"
+    ],
+    "Various types of seating options": [
+        "chair: Typically has a backrest and four legs",
+        "sofa: Often accompanied by pillows or cushions",
+        "seat: Different types of seats include chairs, sofas, benches, stools, etc.",
+        "desk: Often accompanied by a chair or seating",
+        "pool table: Often accompanied by a set of billiard balls and cues",
+        "toilet: Typically bowl-shaped with a seat and lid"
+    ],
+    "Upholstered seat and backrest with a raised or curved backrest for support and comfort.": [
+        "chair: Backrest can be straight or curved",
+        "armchair: Upholstered seat and backrest",
+        "seat: Typically has a raised backrest for support",
+        "bathtub: Features a curved interior for comfortable seating",
+        "swivel chair: Upholstered seat and backrest for comfort"
+    ],
+    "Upholstered with various materials such as fabric, leather, or synthetic materials": [
+        "chair: Upholstered with fabric, leather, or cushioned",
+        "sofa: Upholstered with fabric or leather",
+        "armchair: Upholstery can be fabric, leather, or synthetic materials",
+        "ottoman: Upholstery can be fabric, leather, or synthetic materials",
+        "bicycle: May have a leather or foam saddle for seating"
+    ],
+    "Transportation device with two or four wheels, handlebars for steering, and pedals or a small motor for propulsion.": [
+        "car: Four-wheeled vehicle for transportation",
+        "van: Four-wheeled vehicle",
+        "minibike: Small motorized vehicle",
+        "minibike: Two wheels in line",
+        "bicycle: Two-wheeled transportation device",
+        "bicycle: Handlebars for steering, pedals for propulsion"
+    ],
+    "Typically oriented horizontally": [
+        "car: Typically oriented horizontally on the ground",
+        "stove: Typically oriented horizontally",
+        "boat: Oriented horizontally on the water's surface",
+        "truck: Typically oriented horizontally with wheels on the bottom",
+        "chandelier: Typically symmetrical and multi-tiered",
+        "stage: Positioned horizontally",
+        "monitor: Typically oriented horizontally"
+    ],
+    "Smooth and glossy surface": [
+        "car: Smooth and shiny surface",
+        "bathtub: Smooth, glossy surface",
+        "sink: Smooth, glossy surface with a drain at the bottom",
+        "refrigerator: Smooth and glossy surface",
+        "coffee table: Smooth surface with polished finish",
+        "toilet: Smooth, glossy surface for easy cleaning",
+        "arcade machine: Smooth surface with glossy finish",
+        "bus: Smooth surface with painted exterior",
+        "airplane: Smooth and polished exterior",
+        "poster: Can have glossy or matte finish",
+        "swimming pool: Smooth, glossy surface with a reflective quality",
+        "minibike: Smooth or glossy finish",
+        "oven: Smooth, shiny surface with heat-resistant coating",
+        "microwave: Smooth, glossy exterior finish",
+        "dishwasher: Smooth and glossy surface"
+    ],
+    "Common colors include white, black, red, blue, yellow, gray, metallic finishes, silver, gold, natural wood tones, pastels, and brown.": [
+        "car: Common colors include white, black, silver, and red",
+        "counter: Common colors include white, black, gray, or natural wood tones",
+        "stove: Common colors include black, white, or silver",
+        "computer: Common colors include black, silver, or white",
+        "pole: Common colors include silver, black, or brown",
+        "barrel: Common colors include natural wood tones or metallic shades",
+        "minibike: Common colors include red, blue, black",
+        "cradle: Common colors include white, natural wood tones, or pastels",
+        "oven: Common colors include white, black, or silver",
+        "ball: Common colors include white, black, red, blue, and yellow",
+        "hood: Common colors include black, white, or silver",
+        "monitor: Common colors include black, silver, or white",
+        "radiator: Common colors include white, gray, or metallic finishes",
+        "clock: Common colors include black, white, silver, or gold"
+    ],
+    "Equipped with headlights, taillights, turn signals, and rearview mirrors": [
+        "car: Equipped with headlights, taillights, and turn signals",
+        "truck: Common features include headlights, grille, and rearview mirrors",
+        "van: Features headlights, taillights, and rearview mirrors",
+        "minibike: Features include headlights, taillights, and turn signals"
+    ],
+    "Variations in types or models": [
+        "car: Variations include sedans, SUVs, trucks, and sports cars",
+        "bus: Variations include double-decker buses or articulated buses",
+        "truck: Variations include pickup trucks, delivery trucks, and semi-trucks",
+        "van: Variations include passenger vans, cargo vans, and camper vans"
+    ],
+    "Often seen in various locations such as roads, highways, construction sites, parking lots, garages, intersections, pedestrian crossings, buildings, temples, and monuments": [
+        "car: Can be seen on roads, parking lots, and garages",
+        "column: Commonly seen in buildings, temples, or monuments",
+        "truck: Often seen on roads, highways, or construction sites",
+        "van: Often seen on roads, parking lots, or delivery areas",
+        "traffic light: Often found at intersections or pedestrian crossings"
+    ],
+    "Contains liquid substances": [
+        "water: Liquid substance",
+        "bottle: Contains liquids or substances"
+    ],
+    "Container shape varies, can be cylindrical, rectangular, oval-shaped, or box-shaped": [
+        "water: Takes the shape of its container",
+        "bathtub: Rectangular or oval-shaped container",
+        "bottle: Cylindrical or rectangular container",
+        "washer: Box-shaped with a cylindrical drum inside",
+        "barrel: Cylindrical container with curved sides",
+        "storage tank: Large cylindrical or rectangular container",
+        "vase: Container for holding flowers or decorative items",
+        "ashcan: Cylindrical container"
+    ],
+    "Reflective or shimmering effect": [
+        "water: Reflects light and creates shimmering or rippling effects",
+        "sea: Reflects sunlight, creating shimmering or sparkling effects"
+    ],
+    "Found in bodies of water, such as oceans, rivers, lakes, etc.": [
+        "water: Commonly found in bodies such as oceans, lakes, rivers, and ponds",
+        "sand: Typically found in beaches, deserts, or riverbeds",
+        "boat: Found in various bodies of water, such as lakes, rivers, or oceans",
+        "ship: Found in oceans, rivers, or lakes",
+        "pier: Can be found in coastal areas or near bodies of water"
+    ],
+    "Can exist in different states: solid, liquid, or gas": [
+        "water: Can exist in different states: solid (ice) or gas (water vapor)",
+        "fence: Can be solid or have gaps between components",
+        "ball: Can have a solid or hollow construction",
+        "food: Can be solid, liquid, or semi-solid"
+    ],
+    "Used for storing and containing liquids or gases": [
+        "water: Essential for sustaining life and used for various purposes such as drinking, bathing, and irrigation",
+        "storage tank: Used for storing liquids or gases, such as water, oil, or chemicals",
+        "pot: Container used for cooking or holding liquids"
+    ],
+    "Three-dimensional or flat surface artistic creation": [
+        "painting: Artistic creation on a flat surface",
+        "poster: Flat surface with printed or illustrated content",
+        "sculpture: Three-dimensional art form"
+    ],
+    "Can be painted or adorned with various colors, finishes, logos, text, or images": [
+        "painting: Made with various materials like oil, acrylic, watercolor",
+        "house: Often painted in various colors, such as white, beige, or gray",
+        "fence: Often painted or stained, with colors like white, brown, or black",
+        "signboard: Often painted or printed with text or images",
+        "grandstand: Often painted in vibrant colors, such as red or blue",
+        "runway: Often marked with painted lines or symbols",
+        "airplane: Often painted in vibrant colors or airline livery",
+        "van: Can be painted in various colors or have company logos",
+        "ship: Often painted in vibrant colors or adorned with logos",
+        "plaything: Often colorful and visually appealing",
+        "bicycle: Often painted in various colors or finishes",
+        "sculpture: Can be painted or left in its natural state",
+        "sconce: Can be found in various colors and finishes"
+    ],
+    "Can be set up or displayed in various indoor or outdoor environments": [
+        "painting: Can be displayed on walls or easels",
+        "column: Can be found indoors or outdoors",
+        "tent: Can be set up in various outdoor environments",
+        "sculpture: Can be displayed indoors or outdoors"
+    ],
+    "Soft and cushioned for comfort": [
+        "sofa: Cushioned surface for comfort",
+        "seat: Can be cushioned or upholstered for comfort",
+        "cushion: Soft, padded object used for comfort",
+        "pillow: Soft, cushion-like object",
+        "ottoman: Cushioned top for seating or footrest",
+        "stool: Seat can be cushioned or solid",
+        "cradle: Often lined with soft padding or fabric for comfort"
+    ],
+    "Rectangular shape with flat surfaces and a flat top surface": [
+        "shelf: Rectangular shape with flat surfaces",
+        "stove: Rectangular shape with a flat top surface",
+        "computer: Rectangular shape with a flat, horizontal orientation"
+    ],
+    "Smooth texture, often with a polished, glossy, or matte finish": [
+        "shelf: Smooth or textured finishes, such as polished or matte",
+        "mirror: Smooth and shiny texture",
+        "counter: Smooth texture, often polished or sealed",
+        "countertop: Smooth texture, often polished or matte",
+        "computer: Smooth texture with a matte or glossy finish",
+        "bar: Often has a polished or glossy surface",
+        "television receiver: Smooth or glossy texture, often black or silver in color",
+        "conveyer belt: Smooth texture, often with ridges or grooves for grip",
+        "basket: Often has a natural, earthy texture",
+        "tray: Smooth texture, may have a glossy or matte finish",
+        "monitor: Smooth texture, often glossy"
+    ],
+    "Can be wall-mounted, freestanding, or suspended from ceiling": [
+        "shelf: Can be freestanding or mounted on a wall",
+        "mirror: Can be wall-mounted or freestanding",
+        "bookcase: Can be freestanding or built-in",
+        "chandelier: Suspended from ceiling by chains or rods",
+        "fan: Can be freestanding or mounted on a wall or ceiling",
+        "crt screen: Can be mounted or freestanding"
+    ],
+    "Consists of multiple tiers or levels for organizing items": [
+        "shelf: Features multiple levels or tiers for organizing items",
+        "grandstand: Consists of multiple tiers or levels",
+        "bulletin board: May have sections or categories for organization"
+    ],
+    "May have adjustable features or mechanisms": [
+        "shelf: May have adjustable or fixed shelves",
+        "bookcase: May have adjustable or fixed shelves",
+        "blind: May have adjustable slats or panels",
+        "swivel chair: Adjustable height and tilt mechanism",
+        "monitor: May have adjustable stand or wall-mountable design"
+    ],
+    "Comes in various shapes, including rectangular, square, circular, cylindrical, irregular, and cuboid shapes.": [
+        "house: Rectangular or square shape with a pitched roof",
+        "rug: Rectangular or irregular shape",
+        "desk: Rectangular or square shape",
+        "base: Can be circular, square, or rectangular in shape",
+        "box: Rectangular or cuboid shape",
+        "column: Cylindrical or rectangular shape",
+        "signboard: Rectangular or square structure",
+        "pillow: Rectangular or square shape",
+        "coffee table: Rectangular or square shape",
+        "ottoman: Rectangular or square shape",
+        "buffet: Rectangular or circular shape",
+        "stool: Circular or square seat shape",
+        "step: Rectangular or square shape",
+        "pot: Cylindrical or rounded shape with a wide opening",
+        "fan: Circular or rectangular shape",
+        "plate: Flat, circular or rectangular object"
+    ],
+    "Contains various interior features and amenities": [
+        "house: Interior may include rooms, furniture, and decor",
+        "refrigerator: Interior may have adjustable temperature settings",
+        "countertop: Features a sink, stove, or other appliances in kitchen countertops",
+        "kitchen island: Provides additional workspace and seating options in the kitchen",
+        "boat: May have seating, storage compartments, or sleeping quarters",
+        "bar: Features a counter or bar top for serving drinks",
+        "bar: May have bar stools or seating along the counter",
+        "hovel: Limited interior space, typically one room",
+        "bus: Interior includes seating, handrails, and overhead compartments",
+        "booth: Interior may include shelves, counters, or seating areas",
+        "oven: Interior contains racks or shelves for placing food",
+        "microwave: Interior has a rotating glass plate and a cavity for food"
+    ],
+    "Body of water, can be natural or artificial, and can be saltwater or freshwater": [
+        "sea: Vast body of saltwater",
+        "river: Natural flowing watercourse",
+        "swimming pool: Artificial water-filled structure for swimming and recreation",
+        "lake: Natural or artificial body of water"
+    ],
+    "Moves in a linear direction and typically travels in straight lines": [
+        "sea: Fluid and constantly in motion",
+        "light: Typically travels in straight lines",
+        "escalator: Smooth, continuous motion",
+        "conveyer belt: Moves in a linear direction"
+    ],
+    "Can have varying water conditions, shore types, and bottom compositions": [
+        "sea: Can have gentle waves or turbulent currents",
+        "sea: May have sandy or rocky shores",
+        "sea: Can be influenced by tides and weather conditions",
+        "sand: May contain seashells or pebbles",
+        "river: May have currents or rapids",
+        "lake: Generally large in size, with a defined shoreline",
+        "lake: May have a sandy, rocky, or muddy bottom"
+    ],
+    "Reflective or light-reflecting": [
+        "mirror: Made of glass with a reflective coating",
+        "glass: Reflects and refracts light"
+    ],
+    "Commonly framed or frameless": [
+        "mirror: Commonly framed or frameless",
+        "poster: May be framed or unframed"
+    ],
+    "Found in various environments such as nurseries, bedrooms, childcare facilities, kitchens, bathrooms, stores, beaches, laundry rooms, utility areas, dressing areas, and retail spaces": [
+        "mirror: Often found in bathrooms, bedrooms, or dressing areas",
+        "counter: Horizontal surface typically found in kitchens, bathrooms, or retail spaces",
+        "sink: Commonly found in bathrooms, kitchens, or utility rooms",
+        "toilet: Often found in bathrooms or restrooms",
+        "countertop: Horizontal surface typically found in kitchens or bathrooms",
+        "towel: Can be found in bathrooms, kitchens, or at the beach",
+        "bottle: Found in various environments such as kitchens, bathrooms, or stores",
+        "washer: Can be found in laundry rooms or utility areas",
+        "cradle: Found in nurseries, bedrooms, or childcare facilities",
+        "shower: Often found in bathrooms or dedicated shower rooms"
+    ],
+    "Compact and lightweight design, often handheld or portable": [
+        "mirror: Variations include handheld or compact mirrors for portability",
+        "plaything: Typically small and handheld",
+        "minibike: Compact and lightweight design",
+        "cradle: Variations include portable or foldable designs for convenience"
+    ],
+    "Often features intricate designs or patterns": [
+        "rug: Often features intricate designs or motifs",
+        "sconce: Often features intricate designs or patterns",
+        "vase: Often adorned with patterns or designs"
+    ],
+    "Used to cover and decorate floors": [
+        "rug: Used to cover and decorate floors",
+        "bench: Commonly painted or stained",
+        "bannister: Often painted or stained to match the surrounding decor",
+        "buffet: Can be decorated with tablecloths or centerpieces",
+        "pier: Often painted or stained in earth tones"
+    ],
+    "Comes in various sizes, ranging from small to large": [
+        "rug: May vary in size, from small accent rugs to large area rugs",
+        "book: Varies in size, from pocket-sized to large volumes",
+        "chandelier: Can vary in size from small to large",
+        "airplane: Can vary in size from small private planes to large commercial jets",
+        "barrel: Can vary in size, from small barrels to large industrial ones",
+        "ball: Comes in various sizes, ranging from small to large",
+        "pot: Can be found in various sizes, from small to large",
+        "animal: Varies in size, from small insects to large mammals",
+        "sculpture: Sizes range from small tabletop sculptures to large public installations",
+        "monitor: Comes in various sizes, from small to large"
+    ],
+    "Irregular or varying shape": [
+        "field: Can be rectangular, circular, or irregular in shape",
+        "armchair: Can have various shapes: rectangular, curved, or wingback",
+        "seat: Shape varies, commonly rectangular or curved",
+        "rock: Irregular shape, often jagged or rough",
+        "sand: Can be easily shaped or molded",
+        "hovel: Irregular shape, often asymmetrical",
+        "swimming pool: Rectangular or irregular shape, often with rounded corners",
+        "waterfall: Cascading or plunging shape",
+        "cradle: Curved shape, resembling a small bed or basket",
+        "lake: Usually circular, oval, or irregular in shape",
+        "hood: Can be curved or angular in shape"
+    ],
+    "Used for various purposes, including sports, recreation, and agriculture": [
+        "field: Used for various purposes like agriculture, sports, or recreation",
+        "pool table: Recreational game equipment",
+        "dirt track: Often used for recreational activities or racing events",
+        "tent: Commonly used for camping or outdoor events",
+        "ball: Often used in sports or recreational activities",
+        "ball: Can be kicked, thrown, caught, or hit with a bat or racket",
+        "ball: Variations include different types of balls for specific sports or games"
+    ],
+    "May have armrests or additional features for convenience": [
+        "armchair: Typically has armrests on both sides",
+        "seat: May have armrests or additional features for convenience",
+        "bench: May have armrests or decorative elements",
+        "swivel chair: Armrests may be present or absent"
+    ],
+    "Provides support, cushioning, comfort, and relaxation for sitting, lying down, lounging, resting, or sleeping": [
+        "armchair: Provides comfort and relaxation for sitting or lounging",
+        "cushion: Provides support and cushioning for sitting or lying down",
+        "pillow: Offers support and comfort for resting or sleeping"
+    ],
+    "Tall architectural structure or element": [
+        "fence: Consists of vertical posts and horizontal rails",
+        "column: Vertical architectural element",
+        "skyscraper: Tall architectural structure",
+        "tower: Tall, vertical structure",
+        "bannister: Architectural element"
+    ],
+    "Provides security, privacy, or boundary demarcation": [
+        "fence: Provides security, privacy, or boundary demarcation",
+        "booth: May have walls or partitions for privacy",
+        "shower: Often has a door or curtain for privacy"
+    ],
+    "Made of various materials such as granite, marble, wood, laminate, porcelain, ceramic, stainless steel, stone, quartz, acrylic, or fiberglass": [
+        "rock: Hard and durable material, such as granite or limestone",
+        "bathtub: Made of materials like porcelain, acrylic, or fiberglass",
+        "counter: Made of materials like granite, marble, wood, or laminate",
+        "sink: Made of materials like porcelain, stainless steel, or stone",
+        "toilet: Made of porcelain or ceramic material",
+        "countertop: Made of materials like granite, marble, quartz, or laminate"
+    ],
+    "Used for storage, transportation, or carrying of items": [
+        "wardrobe: Often used for storing clothes, shoes, and accessories",
+        "box: Used for storage or transportation of items",
+        "case: Often used for storage or transportation",
+        "barrel: Often used for storing or transporting liquids or goods",
+        "basket: Commonly used for carrying or storing items",
+        "bag: Used for carrying personal belongings, groceries, or other items"
+    ],
+    "Illumination or ability to emit light": [
+        "lamp: Illuminating object",
+        "signboard: Can be illuminated or non-illuminated",
+        "light: Illuminating energy or radiation"
+    ],
+    "Vertical structure with a light source": [
+        "lamp: Vertical structure with a base and a light source",
+        "signboard: Positioned at eye level for visibility",
+        "streetlight: Vertical structure designed for outdoor illumination",
+        "traffic light: Vertical structure with multiple lights",
+        "traffic light: Lights are arranged vertically from top to bottom"
+    ],
+    "Features control knobs, digital display, switch, or knob for temperature and settings": [
+        "lamp: Often has a switch or knob for turning on/off",
+        "stove: Often accompanied by control knobs or buttons",
+        "oven: Features control knobs or digital display for temperature and settings"
+    ],
+    "Consists of multiple lights with distinct shapes and colors": [
+        "lamp: Emits light in various directions",
+        "light: Common sources include lamps, bulbs, and the sun",
+        "traffic light: Consists of three circular lights: red, yellow, and green",
+        "traffic light: Each light has a distinct shape and color",
+        "traffic light: Lights illuminate in a specific sequence: red, yellow, green"
+    ],
+    "Comes in various sizes and designs": [
+        "lamp: Comes in different sizes and designs",
+        "chest of drawers: Can vary in size and design, from simple to ornate",
+        "boat: Features a variety of sizes and designs, such as sailboats, motorboats, or canoes",
+        "poster: Comes in various sizes and shapes",
+        "basket: Can come in various sizes and designs",
+        "trade name: Can vary in size, font, and color"
+    ],
+    "Typically has a horizontal orientation": [
+        "bathtub: Horizontal orientation, typically placed on the floor",
+        "bus: Horizontal orientation with wheels on the bottom",
+        "awning: Typically horizontal or sloping shape",
+        "buffet: Typically horizontal orientation",
+        "swimming pool: Generally horizontal orientation, with a shallow to deep gradient",
+        "barrel: Horizontal orientation, resting on its curved base"
+    ],
+    "Comes in various colors, including white, off-white, black, stainless steel, brown, reddish-brown, and metallic silver.": [
+        "bathtub: Often white or off-white in color",
+        "refrigerator: Often white or stainless steel in color",
+        "dirt track: Typically brown or reddish-brown in color",
+        "washer: Usually white or metallic in color",
+        "food: Colors vary based on ingredients and cooking methods",
+        "microwave: Often white, black, or stainless steel in color",
+        "dishwasher: Usually silver or white in color"
+    ],
+    "Equipped with a drain and faucet for water flow": [
+        "bathtub: Equipped with a drain and faucet for water flow",
+        "shower: Commonly equipped with a drain to remove water"
+    ],
+    "May have handles or straps for carrying": [
+        "bathtub: May have built-in handles or grips for safety",
+        "case: May have handles or straps for carrying",
+        "basket: May have handles for easy transportation",
+        "bag: Features handles or straps for carrying",
+        "bag: Different types include backpacks, tote bags, duffel bags, and handbags",
+        "tray: May feature handles or compartments for organization"
+    ],
+    "Variations in design or type": [
+        "bathtub: Variations include clawfoot, freestanding, or corner tubs",
+        "toilet: Variations include squat toilets or portable toilets",
+        "shower: Variations include walk-in showers or shower-tub combinations"
+    ],
+    "Vertical or horizontal barrier": [
+        "railing: Horizontal or vertical barrier",
+        "bannister: Vertical railing or barrier"
+    ],
+    "Features steps or ramps for access": [
+        "railing: Positioned along edges of stairs, balconies, or elevated platforms",
+        "stage: Features steps or ramps for access",
+        "swimming pool: Often features steps or ladders for entry and exit",
+        "tent: Often features a zippered entrance"
+    ],
+    "Features handrails or railings for support and safety": [
+        "railing: Provides safety and support",
+        "railing: May have a handrail for gripping",
+        "stairs: Often features a handrail for support and safety",
+        "stairway: May have handrails for support",
+        "bridge: Features railings or barriers for safety",
+        "bannister: Provides support and safety",
+        "escalator: Handrails provide support and safety"
+    ],
+    "Often painted or coated for protection or durability": [
+        "railing: Often painted or coated for durability",
+        "base: Often painted or coated for protection",
+        "bridge: Often painted or coated for protection",
+        "boat: Often painted in vibrant colors or coated with protective finishes",
+        "clock: Often has a glass or plastic cover"
+    ],
+    "Typically used for warmth, comfort, drying, wiping, or decorative purposes": [
+        "cushion: Often found on furniture like sofas, chairs, or beds",
+        "base: Commonly used as a platform for furniture or appliances",
+        "pillow: Typically placed on a bed or couch",
+        "pillow: Often used for decorative purposes on chairs or sofas",
+        "towel: Used for drying or wiping the body or objects",
+        "blanket: Typically used for warmth or comfort",
+        "blanket: Often used on beds or sofas"
+    ],
+    "Features a secure enclosure and supportive structure for holding a child": [
+        "base: Supportive structure or foundation",
+        "cradle: Supportive structure for holding a baby or small child",
+        "cradle: Features a secure enclosure to prevent the child from falling out"
+    ],
+    "Comes in a variety of colors and patterns": [
+        "box: Often comes in various colors or patterns",
+        "ottoman: Often features decorative stitching or tufting",
+        "ottoman: Available in a range of colors and patterns",
+        "bag: Comes in a variety of colors and patterns",
+        "animal: Exhibits a wide range of colors and patterns",
+        "blanket: Comes in various colors and patterns",
+        "flag: Colors and patterns vary depending on the country or organization it represents"
+    ],
+    "Features labels, branding, or markings for identification": [
+        "box: May have labels or markings for identification",
+        "case: Can be decorated or labeled for identification",
+        "bottle: May feature labels or branding",
+        "trade name: Name used to identify a specific product or service",
+        "trade name: Reflects the brand identity and values",
+        "trade name: May include additional information, such as a tagline or slogan",
+        "clock: Features numbers or Roman numerals to indicate time"
+    ],
+    "Often used for communication, observation, support, selling, advertising, decoration, information, or structural purposes": [
+        "column: Often used for structural support or decorative purposes",
+        "tower: Often used for communication, observation, or as landmarks",
+        "booth: Commonly used for selling or displaying products",
+        "pole: Often used for support or as a marker",
+        "poster: Often used for advertising, decoration, or information",
+        "trade name: Typically displayed prominently on packaging or signage",
+        "trade name: Often registered and protected by trademark laws",
+        "bulletin board: Can display announcements, notices, or advertisements"
+    ],
+    "Displays visual information or data": [
+        "signboard: Displays information, advertisements, or directions",
+        "grandstand: Provides a view of a performance or sporting event",
+        "computer: Features a screen for displaying visual output",
+        "poster: Commonly displays images, text, or a combination",
+        "screen: Displays visual information or images",
+        "crt screen: Displays images and text using pixels",
+        "monitor: Displays visual information or data",
+        "bulletin board: Vertical surface for displaying information"
+    ],
+    "Features a lid or cover for containment": [
+        "counter: Features a raised edge or backsplash to prevent spills",
+        "pot: May have a lid to cover and retain heat or steam",
+        "hood: Protective covering or enclosure",
+        "ashcan: Features a lid or cover for containment"
+    ],
+    "Includes shelves, cabinets, or drawers for storage": [
+        "counter: Often includes cabinets or drawers for storage",
+        "kitchen island: Often features cabinets or drawers for storage",
+        "bar: Often includes shelves or cabinets for storing bottles and glassware",
+        "oven: Typically placed at waist height or built into cabinetry"
+    ],
+    "Primarily composed of loose soil or dirt": [
+        "sand: Loose granular material",
+        "dirt track: Primarily composed of loose soil or dirt"
+    ],
+    "Composed of organic ingredients and consists of tiny particles": [
+        "sand: Consists of tiny particles",
+        "food: Edible substance consumed for nourishment",
+        "food: Composed of organic ingredients"
+    ],
+    "Typically consists of a basin and a central structure": [
+        "sink: Typically rectangular or oval-shaped basin",
+        "fountain: Typically consists of a basin and a central structure",
+        "fountain: Basin is often circular or rectangular"
+    ],
+    "Positioned or mounted in a specific location or orientation": [
+        "sink: Positioned horizontally, attached to a countertop or wall",
+        "fireplace: Positioned against a wall or within a room",
+        "poster: Typically hung vertically on a wall",
+        "microwave: Typically placed on a countertop or mounted above a stove",
+        "dishwasher: Typically installed under a countertop or in a dedicated space",
+        "hood: Typically positioned above a larger object or structure",
+        "traffic light: Typically mounted on a pole or suspended overhead",
+        "radiator: Typically mounted on a wall or positioned on the floor"
+    ],
+    "Connected to plumbing system for water supply and drainage": [
+        "sink: Often accompanied by faucets for water supply",
+        "toilet: Connected to a plumbing system for flushing",
+        "washer: Connected to water supply and drainage system",
+        "dishwasher: Connected to water supply and drainage system"
+    ],
+    "May have additional features or amenities": [
+        "sink: May have additional features like a soap dispenser or sprayer",
+        "toilet: May have additional features like a tank or bidet attachment",
+        "hovel: May lack amenities like plumbing or electricity"
+    ],
+    "Architectural feature or appliance for containing and displaying fire": [
+        "fireplace: Architectural feature or appliance for containing and displaying fire",
+        "fireplace: Firebox contains the fire and has a chimney or vent",
+        "fireplace: Mantel or surround frames the firebox",
+        "fireplace: Fire emits warmth and light, with flickering flames"
+    ],
+    "Variations in the type of heating or cooking mechanism": [
+        "fireplace: Variations include electric or gas fireplaces",
+        "stove: Features burners or heating elements on the top",
+        "stove: Variations include gas or electric stoves",
+        "oven: Variations include convection ovens or microwave ovens"
+    ],
+    "Kitchen appliance for cooking or heating food": [
+        "refrigerator: Electrical appliance used for cooling and preserving food",
+        "stove: Kitchen appliance for cooking",
+        "oven: Kitchen appliance for cooking or baking",
+        "microwave: Kitchen appliance for heating or cooking food",
+        "microwave: Emits heat and microwaves to cook or warm food quickly"
+    ],
+    "Typically made of various materials, including metal, ceramic, glass, plastic, and composite materials": [
+        "refrigerator: Typically made of metal or plastic",
+        "stove: Made of metal, such as stainless steel or cast iron",
+        "computer: Typically made of plastic or metal",
+        "arcade machine: Typically made of sturdy metal or plastic",
+        "bus: Typically made of metal or fiberglass",
+        "awning: Made of fabric or metal",
+        "streetlight: Typically made of metal, such as aluminum or steel",
+        "airplane: Typically made of metal or composite materials",
+        "bottle: Typically made of glass, plastic, or metal",
+        "washer: Typically made of metal or plastic",
+        "minibike: Typically made of metal or plastic",
+        "oven: Constructed from metal, often stainless steel",
+        "ball: Typically made of materials like rubber, leather, or plastic",
+        "microwave: Made of metal or plastic",
+        "pot: Typically made of metal, ceramic, or glass",
+        "bicycle: Typically made of metal, aluminum, or carbon fiber",
+        "dishwasher: Made of stainless steel or plastic",
+        "ashcan: Typically made of metal or plastic",
+        "plate: Typically made of ceramic, glass, or metal",
+        "radiator: Made of metal, often steel or cast iron"
+    ],
+    "Commonly found in kitchen or dining areas": [
+        "refrigerator: Can be found in kitchens or other food storage areas",
+        "stove: Found in residential kitchens or commercial settings",
+        "buffet: Commonly found in dining rooms or restaurants",
+        "stool: Often found in kitchens, bars, or outdoor settings",
+        "oven: Usually found in kitchens or culinary environments",
+        "pot: Often seen in kitchens or on stovetops",
+        "dishwasher: Commonly found in kitchens or utility rooms",
+        "vase: Commonly found on tables, shelves, or mantels"
+    ],
+    "Provides a space for performances, with seating for audience members and possible curtains or backdrops": [
+        "grandstand: Features rows of seats or benches",
+        "stage: May have curtains or backdrops for performances",
+        "stage: Provides a space for actors, musicians, or speakers to perform",
+        "stage: Surrounding area may include seating for audience members"
+    ],
+    "Can accommodate pedestrians, vehicles, trains, a large number of passengers, spectators, and multiple people": [
+        "grandstand: Can accommodate a large number of spectators",
+        "bridge: Can accommodate pedestrians, vehicles, or trains",
+        "bench: Can accommodate multiple people",
+        "bus: Can accommodate a large number of passengers"
+    ],
+    "Sleek and streamlined shape": [
+        "path: Typically narrow and elongated",
+        "boat: Typically elongated and streamlined shape",
+        "airplane: Sleek and streamlined shape",
+        "airplane: Long and narrow fuselage with wings",
+        "dirt track: Narrow and winding shape",
+        "ship: Long and narrow body with a streamlined shape",
+        "ship: Typically has a pointed bow and a flat stern"
+    ],
+    "Used for transportation or recreational activities": [
+        "path: Used for walking, biking, or driving",
+        "bicycle: Used for commuting, exercise, or recreational purposes"
+    ],
+    "Consists of steps or stairs": [
+        "stairs: Consists of a series of steps or treads",
+        "stairway: Consists of steps or stairs",
+        "escalator: Mechanical moving staircase",
+        "escalator: Consists of steps and handrails",
+        "escalator: Steps have non-slip surfaces",
+        "conveyer belt: Consists of a continuous loop of material",
+        "step: Can be single or multiple steps in a series"
+    ],
+    "Provides a means of transition between different levels or areas": [
+        "stairs: Provides a means of transition between floors or levels",
+        "step: Provides a transition between different levels or areas"
+    ],
+    "Located at airports or military bases": [
+        "runway: Located at airports or military bases",
+        "airplane: Operates in the sky, usually at airports or airstrips"
+    ],
+    "Provides a platform for various purposes (e.g. aircraft takeoff and landing, docking boats or ships)": [
+        "runway: Used for aircraft takeoff and landing",
+        "stairway: May include landings or platforms at intervals",
+        "ship: May have lifeboats or life rafts for safety measures",
+        "pier: Provides a platform for docking boats or ships"
+    ],
+    "Can have retractable or fixed functionality\n- Can be portable or fixed in place": [
+        "case: Can be portable or fixed in place",
+        "awning: Can be retractable or fixed"
+    ],
+    "Comes in various shapes and sizes": [
+        "case: Comes in various sizes and shapes, such as briefcases, suitcases, or toolboxes",
+        "flower: Varies in size and shape, such as round, elongated, or bell-shaped",
+        "apparel: Various shapes and sizes, depending on the specific item",
+        "plaything: Can have various shapes, such as balls, dolls, or puzzles",
+        "plaything: Variations include board games, action figures, or stuffed animals",
+        "food: Varied shapes and sizes, depending on the dish",
+        "sculpture: Exhibits various shapes and forms",
+        "glass: Can be shaped into different forms, such as bottles or sheets"
+    ],
+    "Common features include sleeves, collars, buttons, zippers, and pockets": [
+        "pool table: Features six pockets, one at each corner and two on the longer sides",
+        "apparel: Common features include sleeves, collars, buttons, zippers, and pockets"
+    ],
+    "Can have accessories like baskets, lights, or fenders": [
+        "pool table: Includes rails along the edges to rebound balls",
+        "bicycle: Can have accessories like baskets, lights, or fenders"
+    ],
+    "Comes in varying sizes and thicknesses": [
+        "pillow: Comes in various sizes and thicknesses",
+        "countertop: Can be found in various thicknesses and sizes",
+        "plate: Can come in different sizes and thicknesses"
+    ],
+    "Rectangular shape with a hinged door and a mesh or perforated panel": [
+        "screen door: Hinged door with a mesh or perforated panel",
+        "oven: Rectangular shape with a front-facing door",
+        "microwave: Rectangular shape with a front-facing door",
+        "dishwasher: Rectangular shape with a front-facing door"
+    ],
+    "Water is typically clear or can be murky, with varying textures and levels of calmness.": [
+        "river: Water can be clear or murky, depending on sediment",
+        "swimming pool: Typically filled with clear, chlorinated water",
+        "waterfall: Water appears white or clear, with frothy texture",
+        "lake: Water is typically calm or gently rippling"
+    ],
+    "Used for recreational activities such as swimming, boating, fishing, and water sports": [
+        "river: Often used for recreational activities like boating or fishing",
+        "boat: Used for activities like fishing, cruising, or water sports",
+        "lake: Can be used for recreational activities like swimming, boating, and fishing"
+    ],
+    "Horizontal structure that spans over a body of water or a valley": [
+        "bridge: Typically spans over a body of water or a valley",
+        "fountain: Water flows from the central structure into the basin",
+        "canopy: Hangs or extends from a supporting structure",
+        "pier: Horizontal structure extending into a body of water"
+    ],
+    "Low in height or seat height": [
+        "coffee table: Low, horizontal furniture piece",
+        "hovel: Small, makeshift dwelling",
+        "ottoman: Low, upholstered furniture piece",
+        "stool: Low, portable seating furniture",
+        "minibike: Low seat height and handlebars for rider"
+    ],
+    "Comes in a variety of vibrant colors and eye-catching graphics": [
+        "flower: Colors range from vibrant to pastel, including red, yellow, pink, white, and purple",
+        "arcade machine: Vibrant colors and eye-catching graphics"
+    ],
+    "Often emits a pleasant fragrance": [
+        "flower: Often emits a pleasant fragrance"
+    ],
+    "Rectangular in shape": [
+        "book: Rectangular object with bound pages",
+        "towel: Rectangular fabric object",
+        "poster: Rectangular object",
+        "screen: Rectangular object",
+        "blanket: Rectangular fabric covering",
+        "flag: Rectangular or square fabric"
+    ],
+    "Includes features for attaching papers or notes, and may have payment options or a bookmark attached.": [
+        "book: May have a bookmark or ribbon attached",
+        "arcade machine: Often includes coin slot or card reader for payment",
+        "bulletin board: Features pins or clips to attach papers or notes"
+    ],
+    "Smooth and rounded shape": [
+        "hill: Rounded or sloping shape",
+        "streetlight: Smooth surface with a cylindrical shape",
+        "ball: Smooth and rounded shape"
+    ],
+    "May have scattered rocks, some of which may be wet or moss-covered": [
+        "hill: May have rocks or boulders scattered",
+        "waterfall: Surrounding rocks may be wet or moss-covered"
+    ],
+    "May have visible marks or scars": [
+        "palm: Trunk may have visible scars or markings",
+        "dirt track: May have tire marks or footprints"
+    ],
+    "Can be freestanding or attached to a building or structure": [
+        "kitchen island: Freestanding structure in the center of the kitchen",
+        "tower: Can be freestanding or part of a larger building",
+        "awning: Attached to a building or structure"
+    ],
+    "Electronic device for receiving, displaying, processing, and storing information and audiovisual content": [
+        "computer: Electronic device for processing and storing information",
+        "television receiver: Electronic device for receiving and displaying broadcasted audiovisual content"
+    ],
+    "Includes a keyboard or touchpad for input": [
+        "computer: Includes a keyboard or touchpad for input"
+    ],
+    "Can be connected to other devices and peripherals": [
+        "computer: Often connected to peripherals like a mouse or printer",
+        "computer: Can be portable (laptop) or stationary (desktop)",
+        "monitor: Can be connected to a computer or other devices",
+        "clock: Can be analog or digital"
+    ],
+    "May have various functionalities, including hour, minute, and second hands, touch-sensitive capabilities, and functionality determined by the operating system and software.": [
+        "computer: Operating system and software determine functionality",
+        "screen: May have touch-sensitive capabilities",
+        "clock: May have hour, minute, and second hands"
+    ],
+    "Equipped with wheels or casters for mobility": [
+        "swivel chair: May have wheels or casters for mobility",
+        "van: Equipped with wheels and tires for mobility",
+        "animal: Capable of various movements, such as walking, flying, or swimming",
+        "bicycle: Wheels made of rubber with metal spokes"
+    ],
+    "Watercraft used for transportation or leisure": [
+        "boat: Floating vessel used for transportation or recreation on water",
+        "ship: Watercraft used for transportation or leisure",
+        "ship: Equipped with navigation and communication systems"
+    ],
+    "May have tail fins, stabilizers, interconnected tubes or fins, hull, deck, and superstructure": [
+        "boat: May have a hull, deck, and superstructure",
+        "airplane: May have tail fins and stabilizers",
+        "radiator: Features a series of interconnected tubes or fins"
+    ],
+    "Can be equipped with various propulsion methods": [
+        "boat: Can be equipped with oars, sails, or engines for propulsion",
+        "airplane: Equipped with engines and landing gear",
+        "ship: Can be powered by engines or sails"
+    ],
+    "Provides ambient or focal lighting": [
+        "bar: Ambient lighting, often dim or atmospheric",
+        "light: Environmental context affects perception of light",
+        "chandelier: Provides ambient or focal lighting",
+        "streetlight: Emit light in a focused downward direction",
+        "sconce: Provides focused or ambient lighting"
+    ],
+    "Can be found in arcades, amusement parks, or entertainment venues": [
+        "bar: May have a designated area for games like pool or darts",
+        "arcade machine: Can be found in arcades, amusement parks, or entertainment venues",
+        "plaything: Object used for amusement or entertainment"
+    ],
+    "Located within a larger establishment or standalone": [
+        "bar: Located within a larger establishment or standalone"
+    ],
+    "Equipped with a screen for displaying games and is a standalone gaming device": [
+        "arcade machine: Standalone gaming device",
+        "arcade machine: Equipped with a screen for displaying games"
+    ],
+    "Includes interactive features such as buttons or controls": [
+        "arcade machine: Features control panel with buttons and joystick",
+        "plaything: Can include interactive features like buttons or sound effects",
+        "microwave: Features a control panel with buttons or a digital display",
+        "dishwasher: Features control panel and buttons on the front",
+        "monitor: Features buttons or touch controls"
+    ],
+    "Offers a variety of game genres": [
+        "arcade machine: Offers a variety of game genres, such as racing, shooting, or puzzle"
+    ],
+    "Rough texture": [
+        "hovel: Rough, weathered texture",
+        "dirt track: Texture is rough and uneven"
+    ],
+    "Large, mobile vehicle used for transportation": [
+        "bus: Large, wheeled vehicle for transportation",
+        "truck: Large, mobile vehicle used for transportation",
+        "airplane: Aerial transportation vehicle",
+        "van: Typically longer than a car, but smaller than a truck"
+    ],
+    "May have a pointed or rounded top and often has a screw-on or snap-on cap or cork": [
+        "tower: May have a pointed or domed top",
+        "pole: May have a pointed or rounded top",
+        "bottle: Often has a screw-on or snap-on cap or cork"
+    ],
+    "Variations in type or design": [
+        "tower: Variations include clock towers, water towers, and observation towers",
+        "fan: Variations include desk fans, ceiling fans, and tower fans",
+        "clock: Variations include wall clocks, desk clocks, or alarm clocks"
+    ],
+    "Overhead structure or covering": [
+        "awning: Overhead structure",
+        "canopy: Overhead covering or shelter"
+    ],
+    "Provides shade and protection from weather elements": [
+        "awning: Provides shade or protection from weather",
+        "canopy: Provides shade and protection from elements",
+        "tent: Provides temporary protection from weather elements"
+    ],
+    "Often used or seen in outdoor spaces": [
+        "awning: Commonly seen in outdoor spaces like patios or storefronts",
+        "canopy: Often used in outdoor spaces like gardens or patios"
+    ],
+    "Flat screen with rectangular shape": [
+        "television receiver: Rectangular shape with a flat screen",
+        "monitor: Flat screen with display panel"
+    ],
+    "Commonly used in electronic devices and commonly features specific ports and inputs": [
+        "television receiver: Common features include HDMI ports, USB ports, and antenna inputs",
+        "screen: Commonly used in electronic devices like smartphones, tablets, and computers",
+        "crt screen: Commonly used in older computer monitors and televisions",
+        "glass: Commonly used in windows, mirrors, and containers"
+    ],
+    "Variations in screen sizes and resolutions": [
+        "television receiver: Variations include different screen sizes and resolutions",
+        "screen: Sizes and resolutions vary depending on the device",
+        "crt screen: Variations include different screen sizes and resolutions"
+    ],
+    "Vertical orientation with a narrow neck and wider base": [
+        "bottle: Vertical orientation with a narrow neck and wider base",
+        "vase: Narrow neck and wider base"
+    ],
+    "Often colored in shades of gray or black\nTypically black or dark gray in color\nCommonly colored black or gray\n\nTypically colored in shades of gray or black": [
+        "conveyer belt: Commonly colored black or gray",
+        "ashcan: Often colored in shades of gray or black",
+        "crt screen: Typically black or dark gray in color"
+    ],
+    "Can have adjustable settings and additional features": [
+        "conveyer belt: May have adjustable speed settings or control panels",
+        "microwave: Can have additional features like defrosting or timer settings",
+        "bicycle: Features gears for different speeds and brakes for stopping",
+        "dishwasher: Can have different wash cycles and settings",
+        "fan: May have adjustable speed settings",
+        "radiator: May have adjustable temperature settings or control knobs"
+    ],
+    "Appliance for cleaning tasks": [
+        "washer: Appliance used for cleaning clothes",
+        "dishwasher: Appliance for cleaning dishes"
+    ],
+    "Features a loading and unloading door": [
+        "washer: Features a door for loading and unloading clothes"
+    ],
+    "Commonly associated with children's play or recreational activities": [
+        "plaything: Commonly associated with children's play or recreational activities"
+    ],
+    "Commonly used for cooling or ventilation purposes": [
+        "waterfall: May create a mist or spray in the air",
+        "hood: May have a functional purpose, like directing airflow or containing heat",
+        "fan: Mechanical device for air circulation",
+        "fan: Commonly used for cooling or ventilation purposes"
+    ],
+    "Some waterfalls have pools or basins at the bottom.": [
+        "waterfall: Some waterfalls have pools or basins at the bottom"
+    ],
+    "Variety of bicycle types or models": [
+        "minibike: Variations include off-road or street models",
+        "bicycle: Variations include mountain bikes, road bikes, and cruisers"
+    ],
+    "Bounces when thrown or dropped": [
+        "ball: Bounces when thrown or dropped"
+    ],
+    "Commonly used for cooking or preparing food": [
+        "food: Often seasoned with herbs, spices, or sauces",
+        "pot: Commonly used for boiling, simmering, or stewing ingredients"
+    ],
+    "Consumed using utensils or hands": [
+        "food: Consumed using utensils or hands",
+        "plate: Sometimes accompanied by utensils like forks and knives"
+    ],
+    "Features a showerhead with additional options such as rotating spray arms, handheld showerhead, or additional jets.": [
+        "dishwasher: Includes rotating spray arms for water distribution",
+        "shower: Features a showerhead for water flow",
+        "shower: May include a handheld showerhead or additional jets"
+    ],
+    "Often attached to a larger object": [
+        "hood: Often attached to a larger object, such as a car or stove",
+        "hood: Variations include hoods on cars, range hoods in kitchens, or hoods on jackets",
+        "hood: Environmental context can include a car hood in a parking lot or a kitchen hood above a stove."
+    ],
+    "Consists of blades arranged in a radial pattern, powered by a motor": [
+        "fan: Typically consists of blades and a motor",
+        "fan: Blades arranged in a radial pattern"
+    ],
+    "Rectangular shape in electronic devices or displays": [
+        "crt screen: Rectangular electronic display",
+        "monitor: Rectangular electronic device"
+    ],
+    "Brittle and fragile": [
+        "glass: Brittle and fragile"
+    ],
+    "Timekeeping device": [
+        "clock: Timekeeping device"
+    ]
+}
