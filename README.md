@@ -125,11 +125,11 @@ We provide the [retrieved descriptive properties](./descriptors/) (with GPT-3.5)
 
 ### Descriptive Properties Retrieval (Optional)
 
-We also provide [generate_descrtiptions.ipynb](./generate_descrtiptions.ipynb) using GPT 3.5 (API) and LLAMA-2 (local deploy) to retrieve descriptive properties. 
+We provide [generate_descrtiptions.ipynb](./generate_descrtiptions.ipynb) using GPT 3.5 (API) and LLAMA-2 (local deploy) to retrieve descriptive properties. 
 
 ### Encode Descriptions into Embeddings (Optional)
 
-[Generate_embeddings.ipynb](./generate_embeddings.ipynb) is also provided to encode and cluster the descriptive properties into embeddings with **Sentence Transformer** ([huggingface](https://huggingface.co/sentence-transformers), [paper](https://arxiv.org/abs/1908.10084)) and **BAAI-BGE** models ([huggingface](https://huggingface.co/BAAI/bge-large-en-v1.5), [paper](https://arxiv.org/abs/2309.07597v2)) step-by-step.
+We also provide [generate_embeddings.ipynb](./generate_embeddings.ipynb) to encode and cluster the descriptive properties into embeddings with **Sentence Transformer** ([huggingface](https://huggingface.co/sentence-transformers), [paper](https://arxiv.org/abs/1908.10084)) and **BAAI-BGE** models ([huggingface](https://huggingface.co/BAAI/bge-large-en-v1.5), [paper](https://arxiv.org/abs/2309.07597v2)) step-by-step.
 
 ## Model Zoo
 
