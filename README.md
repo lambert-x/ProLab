@@ -23,20 +23,24 @@
   <!-- Teaser Image -->
   <img src="images/github_teaser.png" alt="Teaser Image">
 
-  <!-- Links -->
-  <p>
-    <a href="https://arxiv.org/abs/2312.13764">Paper</a> | 
-    Property-level Labels | 
-    Model Zoo | 
-    Training & Evaluation
-  </p>
+
 </div>
 
 
 
+<div align="center">
+
+[Paper](https://arxiv.org/abs/2312.13764) | 
+[Property-level Label Space](#property-level-label-space) | 
+[Model Zoo](#model-zoo) | 
+[Training & Evaluation](#training--evaluation)
+
+</div>
+
+
 ## News
 
-- [12/21] 🔥 **ProLab: Property-level Label Space** is released. We propose to retrieve descriptive properties grounded in common sense knowledge to build a property-level label space which makes strong interpretable segmentation models. Checkout the [paper](https://arxiv.org/abs/2312.13764).
+- [12/21] 🔥 **ProLab: Property-level Label Space** is released. We propose to retrieve descriptive properties grounded in common sense knowledge to build a property-level label space which makes strong interpretable segmentation models. Please checkout the [paper](https://arxiv.org/abs/2312.13764).
 
 ## Method
 
@@ -50,15 +54,14 @@
 
 ## Contents
 
-Setup
+- [Getting Started](#getting-started)
 
-Data Preparation
+- [Data Preparation](#data-preparation) 
+  
+- [Property-level Label Space](#property-level-label-space)
 
-Property-level Labels ([retrieved descriptive properties](./descriptors/), [encoded property-level embeddings](https://drive.google.com/drive/folders/1AVpMCi_CoT_JQfuuoVfUS2RLCQHk5fgI?usp=drive_link) )
 
-Property-level Label Generation Tutorials
-
-Model Zoo
+- [Model Zoo](#model-zoo)
 
 Training & Evaluation
 
@@ -112,23 +115,21 @@ Please follow the [guidelines](https://github.com/open-mmlab/mmsegmentation/blob
 
 Please visit the [official website](https://bdd-data.berkeley.edu/) to download the **BDD** dataset.
 
-### Property-level Labels Preparation
+## Property-level Label Space
 
-#### Descriptive Properties and Clustered Embeddings (Ready-to-use)
+### Descriptive Properties and Clustered Embeddings (Ready-to-use)
 
 We provide the [retrieved descriptive properties](./descriptors/) (with GPT-3.5) and [property-level labels](https://drive.google.com/drive/folders/1AVpMCi_CoT_JQfuuoVfUS2RLCQHk5fgI?usp=drive_link) (language embeddings) .
 
-#### Descriptive Properties Retrieval (Optional)
+### Descriptive Properties Retrieval (Optional)
 
 We also provide [generate_descrtiptions.ipynb](./generate_descrtiptions.ipynb) using GPT 3.5 (API) and LLAMA-2 (local deploy) to retrieve descriptive properties. 
 
-#### Encode Descriptions into Embeddings (Optional)
+### Encode Descriptions into Embeddings (Optional)
 
 **[generate_embeddings.ipynb](./generate_embeddings.ipynb)** is also provided to encode and cluster the descriptive properties into embeddings with **Sentence Transformer** ([huggingface](https://huggingface.co/sentence-transformers), [paper](https://arxiv.org/abs/1908.10084)) and **BAAI-BGE** models ([huggingface](https://huggingface.co/BAAI/bge-large-en-v1.5), [paper](https://arxiv.org/abs/2309.07597v2)) step-by-step.
 
-### Training
 
-### Testing
 
 ## Model Zoo
 
@@ -163,6 +164,8 @@ We also provide [generate_descrtiptions.ipynb](./generate_descrtiptions.ipynb) u
 | Method  | Backbone      | Pretrain                                                                         | Lr schd | Crop Size | mIoU | Config                                                                                                                                                           | Checkpoint                                                                                            |
 | ------- | ------------- | -------------------------------------------------------------------------------- | ------- | --------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
 | UperNet | ViT-Adapter-B | [DeiT-B](https://dl.fbaipublicfiles.com/deit/deit_base_patch16_224-b5f2ef4d.pth) | 160K    | 768       | 65.7 | [config](./configs/bdd100k/upernet_deit_adapter_base_768_160k_bdd100k_bge_base_gpt3.5_cluster_32_cosine_simi_with_sigmoid_cosine_loss_temp_0.04_unnormalized.py) | [Google Drive](https://drive.google.com/file/d/1ksAPKhCs7pk8TyiP3LkBeq7QZoW_RiC4/view?usp=drive_link) |
+
+## Training & Evaluation
 
 
 ## Citation
