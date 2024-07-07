@@ -1,6 +1,6 @@
 <div align='center'>
   <!-- Paper Title -->
-  <h1><strong>ProLab</strong>: <strong>Pro</strong>perty-level <strong>Lab</strong>el Space</h1>
+  <h1><strong> (ECCV 2024) ProLab</strong>: <strong>Pro</strong>perty-level <strong>Lab</strong>el Space</h1>
   <h3><a href="https://arxiv.org/abs/2312.13764">A Semantic Space is Worth 256 Language Descriptions: <br>Make Stronger Segmentation Models with Descriptive Properties</a></h3>
 
 <!-- Authors -->
@@ -45,7 +45,8 @@
 
 ## News
 
-- [12/21] 🔥 **ProLab: Property-level Label Space** is released. We propose to retrieve descriptive properties grounded in common sense knowledge to build a property-level label space which makes strong interpretable segmentation models. Please checkout the [paper](https://arxiv.org/abs/2312.13764).
+- [07/07/24] 🔥 **ProLab: Property-level Label Space** is accepted to ECCV 2024. A camera-ready version is coming in the next 1~2 weeks [paper](https://arxiv.org/abs/2312.13764). Stay tuned.
+- [12/21/23] 🔥 **ProLab: Property-level Label Space** is released. We propose to retrieve descriptive properties grounded in common sense knowledge to build a property-level label space which makes strong interpretable segmentation models. Please checkout the [paper](https://arxiv.org/abs/2312.13764).
 
 ## Method
 
